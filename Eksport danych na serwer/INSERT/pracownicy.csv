@@ -1,0 +1,6 @@
+,id_pracownika,Imię,Nazwisko,PESEL,Telefon,Email,Data zatrudnienia,Specjalizacja,Pensja
+0,3,Sarek,Marupski,99021411311,123456789,sarek.marupski@aport.pl,05-10-2019,Chirurg,5340
+1,4,Jarta,Maworska,99020121345,885663339,jarta.maworska@aport.pl,05-10-2019,Pielęgniarka,3200
+2,5,Karta,Mroczak,99091222189,785990912,karta.mroczak@aport.pl,05-10-2019,Pielęgniarka,3200
+3,1,Kagata,Awerska,99043098383,712129643,kagata.awerska@aport.pl,05-10-2019,Lekarz,4360
+4,2,Safał,Rokołowski,99122459672,798395424,safał.rokołowski@aport.pl,05-10-2019,Lekarz,4360

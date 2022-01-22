@@ -1,0 +1,1201 @@
+,id_zwierzęcia,id_właściciela,Imię,Data urodzenia,Data rejestracji,Gatunek,Rasa,Płeć
+0,0,302,Lili,2017-03-16,2020-08-28,kot,bobtail,K
+1,1,785,Fifka,2018-03-15,2020-10-10,pies,cavalier,K
+2,2,103,Borówka,2019-05-27,2021-01-06,kot,bengalski,K
+3,3,978,Roxi,2019-04-20,2020-02-14,szczur domowy,,K
+4,4,916,Dżasti,2021-03-01,2021-05-06,szczur domowy,,K
+5,5,498,Jessica,2012-06-26,2020-02-02,pies,spaniel,K
+6,6,788,Nala,2019-09-15,2021-06-01,kot,syjamski,K
+7,7,834,Hiroya,2011-03-12,2020-12-29,kot,bombajski,K
+8,8,60,Szasta,2011-03-05,2020-02-10,kot,amerykański,K
+9,9,968,Emi,2011-10-27,2020-01-03,kot,ragdoll,K
+10,10,22,Dusia,2019-03-06,2021-05-30,pies,dalmatyńczyk,K
+11,11,629,Milka,2019-11-20,2019-12-18,pies,drever,K
+12,12,592,Diksi,2014-09-20,2021-03-11,pies,basenji,K
+13,13,228,Oreo,2014-05-09,2020-09-01,królik,holenderski,K
+14,14,888,Borya,2013-12-10,2020-07-27,pies,doberman,K
+15,15,720,Abi,2012-05-23,2020-02-11,kot,doński,K
+16,16,555,Kimiko,2011-06-04,2020-07-23,pies,puli,K
+17,17,194,Misia,2013-03-20,2020-03-25,pies,alaskan,K
+18,18,655,Alfa,2019-04-17,2019-10-28,pies,grzywacz chiński,K
+19,19,243,Kofi,2014-05-17,2020-01-11,pies,komondor,K
+20,20,863,Kulka,2016-10-25,2020-11-13,koszatniczka,,K
+21,21,640,Rudzisława,2015-03-30,2020-09-24,pies,alaskan,K
+22,22,389,Mani,2010-06-06,2020-02-20,pies,terier,K
+23,23,291,Plamcia,2020-09-11,2021-03-03,ptak,kanarek,K
+24,24,360,Perła,2017-05-03,2019-11-02,pies,skye,K
+25,25,390,Mela,2013-02-21,2021-02-11,pies,dalmatyńczyk,K
+26,26,426,Czesia,2019-02-01,2020-09-19,kot,bengalski,K
+27,27,957,Loca,2016-09-10,2021-04-10,świnka morska,peruwianka,K
+28,28,469,Gucia,2018-06-20,2020-07-29,pies,hollandse,K
+29,29,123,Kropka,2013-05-05,2020-04-13,kot,hawański,K
+30,30,239,Rufi,2015-06-16,2019-12-07,kot,bombajski,K
+31,31,359,Julia,2011-07-10,2020-05-06,pies,shiba inu,K
+32,32,943,Wenus,2012-06-16,2020-03-18,kot,sfinks,K
+33,33,666,Mua,2018-03-10,2021-03-30,pies,doberman,K
+34,34,581,Lejzi,2012-10-20,2020-05-23,pies,pekińczyk,K
+35,35,316,Kali,2016-09-14,2021-03-28,koszatniczka,,K
+36,36,616,Julia,2011-02-10,2020-04-16,pies,shih tzu,K
+37,37,624,Jasmine,2011-04-14,2021-02-21,pies,maltańczyk,K
+38,38,33,Pretty,2013-07-09,2020-09-02,kot,kartuski,K
+39,39,7,Nusia,2017-08-18,2020-08-03,pies,skye,K
+40,40,786,Fela,2018-12-24,2020-12-14,pies,cavalier,K
+41,41,940,Ofra,2017-06-01,2020-08-22,kot,syjamski,K
+42,42,526,Psotka,2017-06-05,2021-02-17,ptak,słowik chiński,K
+43,43,914,Dianusia,2020-08-24,2020-11-18,pies,sznaucer,K
+44,44,138,Punia,2012-10-19,2020-03-01,pies,sznaucer,K
+45,45,294,Mafia,2013-02-15,2020-11-12,pies,ogar,K
+46,46,804,Kiker,2013-03-28,2020-07-13,pies,sznaucer,K
+47,47,712,Frotka,2010-11-24,2020-09-30,kot,bombajski,K
+48,48,135,Julka,2015-10-03,2020-10-17,kot,perski,K
+49,49,882,Tako,2018-03-18,2020-04-19,pies,pondeco,K
+50,50,315,Mufinka,2008-06-19,2021-04-12,kot,tajski,K
+51,51,890,Haidi,2014-09-04,2020-09-24,pies,samoyed,K
+52,52,133,Fifa,2010-12-30,2021-03-27,pies,terier,K
+53,53,674,Jessica,2010-10-02,2020-12-06,pies,basenji,K
+54,54,130,Deasy,2015-07-23,2019-10-21,pies,pondeco,K
+55,55,49,Bródka,2016-03-03,2020-10-17,pies,berneński,K
+56,56,694,Queen,2017-06-02,2021-02-21,ptak,papużka falista,K
+57,57,513,Leksi,2011-07-31,2019-12-19,kot,amerykański,K
+58,58,647,Mela,2015-01-02,2020-05-22,pies,dalmatyńczyk,K
+59,59,249,Queen,2013-09-22,2020-06-08,pies,lablador,K
+60,60,269,Rufuska,2007-02-10,2020-08-01,pies,chiuahua,K
+61,61,563,Neya,2019-08-11,2020-05-06,pies,beagle,K
+62,62,763,Auriculaire,2017-10-12,2020-03-10,królik,lew miniaturka,K
+63,63,337,Nirvana,2019-08-03,2019-12-12,pies,skye,K
+64,64,112,Solo,2015-10-29,2020-10-31,pies,bullmastif,K
+65,65,656,Misa,2014-03-26,2019-12-28,pies,bokser,K
+66,66,244,Krysia,2021-05-08,2021-05-18,pies,puli,K
+67,67,795,Marilyn,2013-10-28,2019-12-12,kot,hawański,K
+68,68,711,Ivi,2019-03-01,2020-09-15,myszoskoczek,,K
+69,69,363,Fatira,2015-11-07,2020-11-30,świnka morska,gładkowłosa,K
+70,70,271,Bianka,2014-01-27,2021-06-01,pies,alaskan,K
+71,71,925,Bessi,2011-09-12,2020-03-26,pies,skye,K
+72,72,474,Malina,2016-12-18,2020-01-27,świnka morska,gładkowłosa,K
+73,73,773,Mufka,2013-03-01,2020-05-11,pies,mops,K
+74,74,159,Fatira,2017-03-30,2019-11-04,pies,bloodhound,K
+75,75,17,Frotka,2016-08-06,2021-03-10,świnka morska,abisyńska,K
+76,76,32,Carmel,2019-11-20,2020-10-27,pies,ogar,K
+77,77,109,Pola,2013-12-13,2020-10-15,pies,husky,K
+78,78,8,Ptysia,2011-11-10,2020-02-11,kot,doński,K
+79,79,327,Lilly,2021-03-10,2021-04-05,pies,jamnik,K
+80,80,571,Mrunia,2020-02-22,2020-10-05,mysz domowa,,K
+81,81,85,Ravi,2011-06-22,2019-10-06,pies,pinczer,K
+82,82,174,Roxi,2018-11-25,2020-01-13,pies,beagle,K
+83,83,974,Mollie,2011-06-07,2021-03-20,kot,burmański,K
+84,84,189,Minka,2014-12-15,2019-12-01,pies,alaskan,K
+85,85,650,Dianka,2019-07-16,2020-10-27,pies,bernardyn,K
+86,86,722,Fija,2015-10-19,2020-09-09,pies,rottweiler,K
+87,87,565,Polly,2018-01-10,2019-10-24,pies,beagle,K
+88,88,105,Nika,2019-04-13,2020-06-15,szczur domowy,,K
+89,89,549,Nuta,2015-05-09,2020-08-16,pies,rottweiler,K
+90,90,120,Jolie,2017-01-20,2019-11-11,królik,baranek miniaturka,K
+91,91,11,Niunia,2012-01-30,2021-03-24,kot,tiffanie,K
+92,92,535,Płoszka,2011-05-20,2020-10-24,pies,szpic,K
+93,93,459,Misia,2009-03-23,2019-10-30,pies,chiuahua,K
+94,94,211,Kimiko,2019-08-09,2020-12-31,szczur domowy,,K
+95,95,141,Prosiałka,2014-04-01,2020-08-22,pies,mops,K
+96,96,385,Nesca,2020-09-23,2021-05-05,pies,hot,K
+97,97,564,Gambi,2014-12-27,2021-02-28,pies,sznaucer,K
+98,98,266,Misia,2015-02-05,2019-10-17,kot,perski,K
+99,99,171,Plysinka,2018-01-26,2021-04-16,pies,bullmastif,K
+100,100,262,Siri,2019-08-28,2020-10-09,kot,europejski,K
+101,101,962,Chini,2020-01-15,2020-10-31,mysz domowa,,K
+102,102,653,Lunita,2014-02-23,2020-08-31,pies,owczarek,K
+103,103,917,Pchełka,2013-03-14,2021-06-01,pies,cavalier,K
+104,104,522,Bella,2019-09-11,2020-06-21,królik,lew miniaturka,K
+105,105,475,Wega,2013-07-08,2020-04-26,pies,sznaucer,K
+106,106,476,Shakira,2014-02-11,2020-10-25,kot,egzotyczny,K
+107,107,303,Niki,2014-07-08,2021-01-14,pies,lhasa apso,K
+108,108,241,Debra,2010-07-26,2020-11-22,pies,puli,K
+109,109,429,Tara,2015-08-22,2019-12-12,pies,drever,K
+110,110,548,Juka,2012-07-31,2021-01-18,kot,bobtail,K
+111,111,714,Malina,2012-03-28,2020-01-16,pies,faraona,K
+112,112,896,Szikszura,2015-09-29,2020-03-13,pies,skye,K
+113,113,669,Nala,2019-09-27,2020-04-21,pies,łajka,K
+114,114,59,Huana,2014-10-23,2020-05-07,pies,gończy,K
+115,115,620,Pepper,2016-10-06,2020-05-03,pies,cavalier,K
+116,116,562,Aysha,2012-12-16,2021-02-23,pies,nagi,K
+117,117,431,Abi,2010-11-07,2019-10-20,kot,bombajski,K
+118,118,901,Fifka,2011-12-11,2021-02-13,kot,tiffanie,K
+119,119,613,Titi,2012-05-19,2020-08-31,pies,welsh corgi,K
+120,120,841,Ami,2012-05-12,2021-04-07,kot,sfinks,K
+121,121,590,Candy,2016-08-15,2021-05-27,świnka morska,peruwianka,K
+122,122,517,Czili,2014-06-18,2020-06-16,pies,bokser,K
+123,123,446,Kosmo,2012-11-20,2020-03-24,pies,akita,K
+124,124,791,Tessi,2014-05-27,2021-02-13,pies,bloodhound,K
+125,125,156,Berta,2017-04-27,2021-01-17,królik,lew miniaturka,K
+126,126,330,Ricco,2016-05-14,2020-10-22,kot,bengalski,K
+127,127,748,Chila,2011-04-17,2021-05-15,pies,szpic,K
+128,128,136,Radzia,2013-06-29,2021-02-22,pies,buhund,K
+129,129,436,Maya,2016-06-27,2021-03-14,królik,mini rex,K
+130,130,885,Kali,2012-05-19,2020-08-24,pies,bloodhound,K
+131,131,99,Pepper,2011-11-13,2020-05-05,pies,husky,K
+132,132,455,Tola,2020-10-04,2021-04-29,pies,husky,K
+133,133,910,Fifa,2020-05-30,2020-11-14,pies,hollandse,K
+134,134,716,Fifcia,2011-09-14,2020-08-29,pies,bearded collie,K
+135,135,948,Prima,2020-04-10,2021-01-14,kot,perski,K
+136,136,718,Kornelia,2020-11-27,2021-01-14,koszatniczka,,K
+137,137,566,Glasi,2014-03-21,2020-02-27,kot,ragdoll,K
+138,138,766,Bigi,2019-07-30,2021-03-03,pies,łajka,K
+139,139,286,Cekinka,2016-02-29,2020-01-02,kot,abisyński,K
+140,140,201,Leksi,2013-10-08,2020-12-30,pies,golden retriever,K
+141,141,82,Widi,2012-06-22,2019-12-03,kot,ragdoll,K
+142,142,212,Kira,2015-05-15,2020-08-10,kot,kartuski,K
+143,143,479,Ruda,2016-04-25,2021-03-15,pies,berneński,K
+144,144,35,Lexi,2017-12-01,2020-05-18,pies,buldog angielski,K
+145,145,53,Fetka,2018-06-30,2021-01-20,pies,hot,K
+146,146,740,Bonnie,2015-08-06,2021-03-28,pies,hollandse,K
+147,147,382,Frotka,2017-09-08,2019-12-22,pies,owczarek,K
+148,148,678,Kes,2013-08-04,2020-12-10,pies,dog,K
+149,149,519,Leia,2014-03-17,2020-03-05,pies,sznaucer,K
+150,150,658,Cekinka,2011-02-08,2020-11-08,kot,egzotyczny,K
+151,151,927,Wika,2014-02-18,2020-07-09,pies,kelpie,K
+152,152,184,Hira,2010-12-29,2019-11-30,pies,mops,K
+153,153,31,Misia,2020-02-03,2021-05-12,pies,husky,K
+154,154,994,Mufinka,2012-02-23,2020-04-07,pies,welsh corgi,K
+155,155,966,Misia,2018-08-31,2020-11-05,pies,ogar,K
+156,156,832,Rosita,2011-01-30,2021-05-31,pies,basenji,K
+157,157,708,Klara,2014-02-04,2020-03-10,pies,akita,K
+158,158,490,Diva,2011-05-05,2020-09-27,pies,bearded collie,K
+159,159,905,Mona,2014-08-11,2020-12-17,pies,bullmastif,K
+160,160,869,Nutka,2019-05-30,2021-05-15,królik,lew miniaturka,K
+161,161,160,Miałkusia,2017-05-04,2021-01-12,pies,foksterier,K
+162,162,960,Czujka,2018-12-29,2020-12-23,pies,bokser,K
+163,163,298,Rudi,2016-02-12,2021-02-03,kot,hawański,K
+164,164,676,Kosmo,2016-05-07,2021-03-17,świnka morska,peruwianka,K
+165,165,561,Fifidorea,2017-10-22,2019-12-16,królik,lew miniaturka,K
+166,166,344,Fifidorea,2019-08-14,2019-10-21,kot,abisyński,K
+167,167,182,Gandzia,2012-06-27,2021-03-18,pies,cavalier,K
+168,168,40,Hetka,2016-04-16,2020-08-25,świnka morska,gładkowłosa,K
+169,169,252,Florka,2011-12-08,2021-04-02,pies,maltańczyk,K
+170,170,723,Miśka,2016-02-29,2021-05-22,świnka morska,peruwianka,K
+171,171,778,Morena,2016-05-06,2020-04-23,pies,pondeco,K
+172,172,898,Mikunia,2010-08-17,2020-09-12,pies,szpic,K
+173,173,783,Ajsza,2018-02-12,2021-03-10,jeż hodowlany,,K
+174,174,979,Rudzisława,2013-02-10,2020-11-07,pies,pudel,K
+175,175,578,Neira,2019-09-18,2020-05-09,kot,tiffanie,K
+176,176,114,Bakhitka,2012-09-03,2020-12-22,pies,beagle,K
+177,177,605,Lora,2020-09-05,2021-05-15,pies,dog,K
+178,178,746,Tara,2018-07-24,2020-05-13,pies,cavalier,K
+179,179,14,Bletka,2008-10-13,2020-10-21,kot,gagamuffin,K
+180,180,297,Nika,2016-06-03,2021-05-18,pies,mastif,K
+181,181,221,Mija,2012-03-26,2019-10-11,kot,bombajski,K
+182,182,830,Atena,2015-02-26,2020-07-02,ptak,papuga,K
+183,183,980,Fiśka,2015-10-08,2019-10-20,pies,gończy,K
+184,184,853,Awa,2016-10-22,2020-12-01,pies,jamnik,K
+185,185,621,Greta,2018-06-14,2021-03-11,pies,buldog francuski,K
+186,186,793,Gucia,2013-09-04,2019-10-25,kot,bobtail,K
+187,187,699,Luisa,2015-03-30,2020-05-19,szynszyla,,K
+188,188,504,Czujka,2012-06-29,2020-07-18,pies,hokkaido,K
+189,189,537,Mura,2012-04-16,2020-02-15,pies,shih tzu,K
+190,190,949,Niunia,2014-12-11,2020-07-13,pies,golden retriever,K
+191,191,191,Sonia,2011-11-12,2020-11-11,pies,whippet,K
+192,192,806,Płoszka,2016-03-30,2019-12-09,pies,maltańczyk,K
+193,193,889,Tamara,2012-11-16,2021-05-30,kot,doński,K
+194,194,233,Raya,2014-02-19,2020-12-14,pies,nagi,K
+195,195,351,Kovu,2020-08-11,2021-04-26,królik,baranek miniaturka,K
+196,196,450,Marysia,2016-06-25,2020-01-15,królik,mini rex,K
+197,197,456,Sara,2015-12-20,2021-04-23,kot,bengalski,K
+198,198,866,Bletka,2018-12-18,2020-01-13,pies,sznaucer,K
+199,199,227,Wiera,2019-08-24,2020-04-19,pies,shar pei,K
+200,200,826,Tessie,2013-10-10,2020-05-17,ptak,nimfa,K
+201,201,64,Polka,2020-03-28,2021-06-01,pies,bernardyn,K
+202,202,111,Tami,2014-10-27,2021-01-09,pies,golden retriever,K
+203,203,23,Chili,2013-06-20,2020-05-28,pies,golden retriever,K
+204,204,540,Dany,2012-03-04,2019-10-30,pies,mops,K
+205,205,717,Selena,2019-08-04,2020-02-02,szczur domowy,,K
+206,206,715,Dolly,2012-06-21,2021-02-21,pies,grzywacz chiński,K
+207,207,721,Mikunia,2012-12-13,2020-04-03,kot,europejski,K
+208,208,586,Deasy,2016-08-20,2021-03-30,świnka morska,abisyńska,K
+209,209,645,Bajra,2011-06-11,2020-08-14,kot,doński,K
+210,210,492,Appa,2017-06-02,2020-07-03,pies,sznaucer,K
+211,211,982,Cassie,2012-03-03,2020-05-23,kot,balijski,K
+212,212,285,Tamara,2014-06-02,2020-11-27,pies,sznaucer,K
+213,213,232,Nuka,2015-12-04,2020-12-19,koszatniczka,,K
+214,214,623,Ajra,2014-07-11,2021-02-11,pies,akita,K
+215,215,646,Dragonka,2011-10-08,2019-10-28,kot,abisyński,K
+216,216,405,Saszka,2013-10-08,2020-01-21,kot,bombajski,K
+217,217,747,Stefek,2014-02-08,2021-02-17,pies,foksterier,K
+218,218,5,Auriculaire,2014-04-14,2019-10-29,pies,sznaucer,K
+219,219,454,Rufuska,2010-03-22,2020-04-08,pies,basenji,K
+220,220,355,Simba,2010-03-17,2020-07-18,kot,maine coon,K
+221,221,596,Nelly,2020-04-24,2020-08-17,mysz domowa,,K
+222,222,840,Lenka,2016-08-16,2020-09-06,ptak,nimfa,K
+223,223,843,Liya,2010-10-19,2019-11-10,kot,syjamski,K
+224,224,400,Pepper,2012-03-15,2020-02-18,pies,foksterier,K
+225,225,542,Bletka,2017-05-12,2021-02-23,kot,dachowiec,K
+226,226,439,Sally,2013-04-07,2020-05-18,pies,bokser,K
+227,227,128,Fryzia,2020-11-12,2021-01-14,pies,sznaucer,K
+228,228,333,Santa,2011-09-24,2020-04-03,kot,bobtail,K
+229,229,660,Hiro,2013-09-07,2019-12-29,kot,syberyjski,K
+230,230,933,Jessie,2019-09-15,2021-01-13,pies,kelpie,K
+231,231,702,Madlen,2013-11-25,2019-11-26,pies,pondeco,K
+232,232,340,Aza,2012-11-17,2020-05-26,pies,mops,K
+233,233,341,Lejdi,2016-01-11,2020-12-10,pies,drever,K
+234,234,777,Asia,2020-05-15,2020-08-22,królik,teddy,K
+235,235,612,Klara,2013-01-07,2021-05-25,pies,shih tzu,K
+236,236,860,Bandi,2012-01-18,2020-11-10,kot,dachowiec,K
+237,237,384,Suzie,2013-02-03,2020-11-03,pies,hokkaido,K
+238,238,602,Rosa,2011-04-03,2021-03-14,pies,pudel,K
+239,239,865,Siri,2016-12-07,2020-11-22,kot,egzotyczny,K
+240,240,664,Bajra,2014-02-24,2021-01-09,pies,sznaucer,K
+241,241,410,Mimi,2016-11-20,2021-03-28,królik,baranek miniaturka,K
+242,242,719,Poja,2017-06-07,2020-10-02,królik,baranek miniaturka,K
+243,243,828,Psotka,2018-02-28,2020-02-11,pies,shiba inu,K
+244,244,304,Rufinka,2013-11-01,2019-12-27,pies,pudel,K
+245,245,824,Wika,2010-07-05,2020-07-01,kot,amerykański,K
+246,246,219,Lejdi,2017-01-18,2020-06-04,królik,teddy,K
+247,247,499,Neira,2016-06-20,2020-10-26,królik,lew miniaturka,K
+248,248,913,Olivia,2015-12-02,2020-05-05,pies,buldog angielski,K
+249,249,864,Dżasti,2015-06-25,2020-03-18,pies,lablador,K
+250,250,407,Ora,2019-03-31,2019-12-02,pies,alaskan,K
+251,251,790,Lea,2011-07-10,2021-05-28,pies,basenji,K
+252,252,204,Brownie,2014-08-29,2021-02-19,pies,seter,K
+253,253,734,Bujka,2018-12-18,2020-02-04,pies,shih tzu,K
+254,254,858,Stefcia,2013-09-20,2020-11-20,pies,alaskan,K
+255,255,501,Beza,2016-06-07,2020-02-20,świnka morska,abisyńska,K
+256,256,409,Megi,2018-03-02,2020-05-20,pies,alaskan,K
+257,257,72,Peppa,2013-05-20,2020-07-04,kot,europejski,K
+258,258,434,Elwirka,2016-03-15,2020-12-16,pies,rottweiler,K
+259,259,639,Scarlet,2013-10-17,2021-04-18,pies,akita,K
+260,260,779,Juka,2016-05-22,2020-01-30,pies,chow chow,K
+261,261,289,Hetka,2019-07-14,2021-01-29,szczur domowy,,K
+262,262,342,Alaska,2012-06-30,2020-11-02,pies,alaskan,K
+263,263,272,Kluska,2015-03-30,2021-01-06,szynszyla,,K
+264,264,511,Bengie,2011-10-05,2019-12-21,pies,puli,K
+265,265,780,Birma,2019-12-19,2021-02-02,świnka morska,abisyńska,K
+266,266,941,Marilyn,2010-12-30,2019-12-18,pies,mops,K
+267,267,792,Bianka,2019-08-27,2020-07-25,kot,burmański,K
+268,268,362,Senshi,2021-03-25,2021-04-18,pies,hokkaido,K
+269,269,93,Duma,2013-01-21,2019-10-25,pies,hokkaido,K
+270,270,301,Bunia,2015-01-22,2020-03-23,królik,holenderski,K
+271,271,600,Luka,2013-09-24,2019-10-19,pies,wyżeł,K
+272,272,539,Marcysia,2011-05-13,2020-05-02,kot,amerykański,K
+273,273,505,Lea,2016-07-21,2021-04-16,koszatniczka,,K
+274,274,754,Gapcia,2019-01-27,2019-12-29,ptak,papuga,K
+275,275,735,Dafcia,2013-02-22,2020-03-01,pies,samoyed,K
+276,276,642,Moli,2015-03-15,2020-10-10,pies,seter,K
+277,277,275,Dakota,2011-11-24,2021-01-26,kot,ragdoll,K
+278,278,247,Marcysia,2017-05-21,2020-03-03,pies,chart,K
+279,279,453,Ciri,2016-07-25,2020-02-22,świnka morska,peruwianka,K
+280,280,345,Scarlet,2013-09-06,2019-12-12,pies,komondor,K
+281,281,494,Beybe,2018-03-10,2020-06-20,pies,drever,K
+282,282,700,Bessi,2019-03-02,2021-03-08,pies,yorkshire terrier,K
+283,283,500,Mimi,2012-06-07,2020-10-09,pies,buhund,K
+284,284,263,Heidi,2012-08-12,2020-11-26,pies,charcik,K
+285,285,575,Wika,2019-01-30,2020-01-13,kot,abisyński,K
+286,286,173,Bryśka,2011-12-18,2020-06-03,pies,shih tzu,K
+287,287,185,Basia,2019-07-20,2021-02-27,pies,basenji,K
+288,288,837,Neya,2012-12-19,2021-04-11,pies,coker spaniel,K
+289,289,491,Ruda,2010-09-11,2020-01-07,pies,shih tzu,K
+290,290,154,Bajra,2010-12-04,2020-05-17,pies,jamnik,K
+291,291,148,Bandi,2011-06-23,2021-03-05,pies,chow chow,K
+292,292,584,Majla,2010-12-27,2020-05-05,pies,wilczak,K
+293,293,207,Fifcia,2018-05-03,2019-12-10,pies,chow chow,K
+294,294,868,Rosa,2011-09-06,2020-11-03,pies,coker spaniel,K
+295,295,369,Asia,2011-10-14,2019-10-16,kot,bobtail,K
+296,296,904,Czili,2013-12-06,2020-05-28,pies,pudel,K
+297,297,595,Niunia,2017-03-17,2020-11-06,pies,hollandse,K
+298,298,256,Perełka,2020-02-28,2021-04-09,kot,cornish,K
+299,299,939,Kuga,2018-12-01,2021-01-26,pies,lhasa apso,K
+300,300,541,Kovu,2015-10-05,2020-05-13,królik,mini rex,K
+301,301,626,Tasia,2014-03-06,2020-03-08,pies,lablador,K
+302,302,987,Plamka,2013-11-16,2020-12-05,pies,akita,K
+303,303,260,Polly,2012-10-15,2020-03-10,pies,buhund,K
+304,304,625,Chica,2014-08-15,2020-11-23,pies,shar pei,K
+305,305,953,Tara,2017-06-28,2020-08-25,pies,pinczer,K
+306,306,235,Mrunia,2014-06-30,2020-10-09,pies,dog,K
+307,307,673,Gracja,2011-03-06,2020-09-12,pies,hawańczyk,K
+308,308,580,Borya,2012-01-18,2020-06-22,pies,maltańczyk,K
+309,309,318,Bajra,2016-08-10,2020-07-13,pies,berneński,K
+310,310,464,Aura,2012-11-08,2020-05-20,pies,charcik,K
+311,311,176,Ashe,2014-02-20,2020-07-10,kot,kartuski,K
+312,312,416,Pretty,2020-10-23,2021-02-01,królik,holenderski,K
+313,313,741,Nasta,2017-01-02,2020-07-20,kot,cornish,K
+314,314,338,Dżejlo,2018-11-03,2019-11-20,myszoskoczek,,K
+315,315,622,Minka,2013-01-16,2020-05-05,pies,skye,K
+316,316,412,Gracja,2014-12-14,2019-10-28,pies,alaskan,K
+317,317,9,Poli,2016-04-26,2020-08-20,ptak,papużka falista,K
+318,318,466,Debbie,2016-10-18,2020-07-04,kot,doński,K
+319,319,229,Szasta,2020-05-26,2020-07-08,ptak,papużka falista,K
+320,320,986,Tusia,2013-05-20,2020-08-12,pies,akita,K
+321,321,762,Rozi,2014-04-08,2020-10-01,pies,owczarek,K
+322,322,849,Betty,2020-06-20,2020-11-22,pies,buldog angielski,K
+323,323,487,Pepper,2010-04-10,2020-10-18,pies,yorkshire terrier,K
+324,324,125,Felicjana,2017-01-23,2021-01-16,kot,hawański,K
+325,325,636,Remy,2010-09-13,2020-01-28,kot,syjamski,K
+326,326,818,Tequila,2018-11-01,2021-05-31,kot,bombajski,K
+327,327,190,Aza,2010-11-15,2019-11-15,pies,kelpie,K
+328,328,944,Fifidorea,2013-09-22,2020-10-17,pies,hokkaido,K
+329,329,42,Księżniczka,2013-06-16,2020-04-27,pies,bokser,K
+330,330,931,Fiona,2019-06-23,2021-01-12,kot,syberyjski,K
+331,331,710,Pojka,2017-11-26,2020-07-10,pies,chow chow,K
+332,332,582,Dżadża,2013-03-15,2020-01-30,pies,owczarek,K
+333,333,290,Marti,2012-06-04,2020-05-28,pies,basenji,K
+334,334,915,Beybe,2013-06-20,2020-08-08,pies,coker spaniel,K
+335,335,703,Czika,2018-10-11,2021-01-02,pies,drever,K
+336,336,399,Mijka,2014-04-02,2021-01-21,pies,rottweiler,K
+337,337,110,Czesia,2016-03-17,2020-01-12,ptak,słowik chiński,K
+338,338,163,Tysia,2015-08-16,2020-06-21,pies,hollandse,K
+339,339,430,Plamcia,2018-06-09,2020-08-04,pies,drever,K
+340,340,448,Lucy,2011-11-05,2020-09-22,pies,jamnik,K
+341,341,45,Black,2021-05-02,2021-05-31,pies,komondor,K
+342,342,101,Loca,2019-02-18,2020-08-27,królik,teddy,K
+343,343,222,Pola,2012-04-26,2020-01-15,kot,balijski,K
+344,344,353,Alfa,2018-05-08,2019-12-06,pies,elkhund,K
+345,345,20,Ama,2013-10-30,2020-07-12,kot,kartuski,K
+346,346,202,Liska,2010-01-26,2020-12-18,pies,chiuahua,K
+347,347,96,Julia,2011-04-10,2020-07-23,pies,whippet,K
+348,348,805,Kosmo,2019-03-12,2019-10-11,myszoskoczek,,K
+349,349,28,Brooklyn,2018-06-10,2020-01-04,pies,rottweiler,K
+350,350,358,Nala,2011-10-02,2020-04-11,pies,husky,K
+351,351,2,Szanti,2017-10-20,2021-01-22,królik,baranek miniaturka,K
+352,352,259,Szara,2015-12-10,2021-02-26,kot,bobtail,K
+353,353,437,Kiara,2012-03-23,2021-01-08,pies,spaniel,K
+354,354,649,Bonnie,2020-10-22,2020-12-13,kot,egzotyczny,K
+355,355,124,Kenay,2020-07-18,2021-03-16,pies,łajka,K
+356,356,881,Migotka,2015-12-21,2021-02-01,świnka morska,peruwianka,K
+357,357,846,Strzała,2019-04-10,2021-02-05,kot,maine coon,K
+358,358,63,Majla,2012-02-17,2020-10-02,kot,gagamuffin,K
+359,359,726,Nesca,2014-07-17,2020-01-24,pies,hollandse,K
+360,360,867,Krówka,2012-11-30,2020-11-16,pies,wyżeł,K
+361,361,47,Krówka,2019-02-24,2019-10-11,pies,hollandse,K
+362,362,153,Ida,2017-11-15,2020-04-18,pies,bullmastif,K
+363,363,223,Masha,2019-05-22,2020-10-05,pies,dalmatyńczyk,K
+364,364,952,Mrużka,2013-05-05,2020-06-10,pies,owczarek,K
+365,365,442,Mycha,2017-01-27,2021-05-21,świnka morska,peruwianka,K
+366,366,744,Polly,2017-09-04,2020-05-31,pies,coker spaniel,K
+367,367,186,Dragonka,2014-10-09,2020-10-18,pies,bloodhound,K
+368,368,52,Nila,2020-01-04,2021-04-18,pies,berneński,K
+369,369,908,Loca,2010-08-31,2021-01-01,pies,wilczak,K
+370,370,892,Krysia,2010-08-10,2020-10-04,kot,rosyjski,K
+371,371,470,Bordi,2015-10-19,2020-07-20,pies,chart,K
+372,372,687,Kisztunia,2016-05-01,2020-11-10,pies,hollandse,K
+373,373,691,Lunia,2010-09-16,2019-12-01,kot,syjamski,K
+374,374,346,Lola,2012-04-19,2021-03-08,kot,doński,K
+375,375,938,Tejena,2012-03-10,2020-08-03,kot,cornish,K
+376,376,279,Peppa,2019-09-17,2020-01-27,pies,owczarek,K
+377,377,147,Fisia,2010-05-04,2020-05-01,pies,shih tzu,K
+378,378,300,Lizi,2018-09-28,2019-11-14,myszoskoczek,,K
+379,379,533,Szila,2011-12-12,2020-03-25,kot,amerykański,K
+380,380,480,Hiro,2015-09-30,2020-05-25,ptak,słowik chiński,K
+381,381,958,Ksara,2014-05-12,2021-05-16,pies,doberman,K
+382,382,374,Duma,2012-02-05,2020-11-10,kot,egzotyczny,K
+383,383,530,Nuka,2012-01-11,2019-11-12,kot,balijski,K
+384,384,663,Abi,2017-08-01,2020-01-31,pies,grzywacz chiński,K
+385,385,976,Luna,2017-12-19,2020-09-03,ptak,kanarek,K
+386,386,349,Keri,2020-05-06,2021-04-06,jeż hodowlany,,K
+387,387,1,Kejla,2021-04-24,2021-05-20,pies,komondor,K
+388,388,701,Tamara,2013-01-09,2019-12-17,pies,pondeco,K
+389,389,97,Kimiko,2017-11-12,2020-04-12,pies,rottweiler,K
+390,390,162,Loca,2014-12-25,2020-08-23,pies,bloodhound,K
+391,391,568,Czili,2012-07-17,2020-02-28,kot,balijski,K
+392,392,618,Płoszka,2017-11-30,2020-07-14,kot,abisyński,K
+393,393,990,Ruda,2012-03-13,2020-05-04,pies,foksterier,K
+394,394,224,Ange,2016-06-08,2020-11-01,szynszyla,,K
+395,395,86,Fela,2011-09-05,2020-09-07,pies,foksterier,K
+396,396,633,Frotka,2012-12-20,2019-10-26,pies,dalmatyńczyk,K
+397,397,768,Kuka,2012-02-08,2020-01-17,pies,grzywacz chiński,K
+398,398,175,Juni,2018-06-29,2021-01-12,pies,golden retriever,K
+399,399,122,Lea,2013-01-21,2021-01-05,pies,terier,K
+400,400,839,Fetka,2011-07-26,2020-12-09,kot,burmański,K
+401,401,78,Rufi,2017-07-01,2020-05-12,królik,baranek miniaturka,K
+402,402,534,Wiera,2019-01-13,2020-10-17,koszatniczka,,K
+403,403,319,Rosita,2012-02-17,2020-05-13,kot,sfinks,K
+404,404,242,Jasmine,2019-03-25,2020-06-18,świnka morska,peruwianka,K
+405,405,292,Leksi,2018-01-01,2020-10-05,pies,yorkshire terrier,K
+406,406,651,Bandi,2017-05-26,2020-09-17,pies,spaniel,K
+407,407,807,Mija,2016-02-03,2020-05-16,świnka morska,peruwianka,K
+408,408,816,Cekinka,2012-12-06,2020-05-27,ptak,nimfa,K
+409,409,273,Bajka,2013-09-30,2020-04-04,pies,owczarek,K
+410,410,570,Queen,2010-01-02,2020-12-21,pies,chow chow,K
+411,411,822,Layla,2013-09-30,2019-10-10,pies,beagle,K
+412,412,799,Dżeki,2009-09-14,2020-05-27,kot,burmański,K
+413,413,277,Emi,2010-12-01,2020-02-08,kot,doński,K
+414,414,288,Jira,2011-09-04,2020-01-16,kot,cornish,K
+415,415,531,Queen,2019-07-29,2021-01-26,pies,husky,K
+416,416,738,Ida,2013-02-18,2020-03-07,kot,bobtail,K
+417,417,983,Czacza,2016-02-09,2020-06-17,królik,mini rex,K
+418,418,71,Dziunia,2012-05-31,2020-05-26,pies,terier,K
+419,419,348,Bagira,2014-04-15,2021-02-15,pies,pekińczyk,K
+420,420,800,Lunita,2017-06-26,2020-07-19,królik,baranek miniaturka,K
+421,421,557,Arwena,2014-05-28,2021-02-25,pies,chart,K
+422,422,630,Titi,2019-05-27,2021-04-08,chomik,,K
+423,423,88,Mrówka,2010-04-28,2021-04-25,kot,gagamuffin,K
+424,424,339,Kazia,2016-10-13,2020-07-28,pies,mops,K
+425,425,984,Marysia,2011-05-27,2021-06-05,pies,grzywacz chiński,K
+426,426,129,Neya,2012-12-23,2020-02-18,kot,balijski,K
+427,427,165,Estrada,2020-10-22,2021-02-18,pies,nowofunland,K
+428,428,447,Atena,2014-07-15,2019-12-30,pies,bernardyn,K
+429,429,802,Freja,2018-04-17,2020-11-26,jeż hodowlany,,K
+430,430,90,Rysia,2013-02-03,2020-04-20,pies,kelpie,K
+431,431,406,Lucy,2018-08-19,2021-01-09,pies,drever,K
+432,432,380,Wenus,2015-02-23,2020-12-14,pies,nowofunland,K
+433,433,648,Hera,2012-04-29,2020-08-09,kot,rosyjski,K
+434,434,394,Alfa,2020-05-06,2020-07-28,jeż hodowlany,,K
+435,435,552,Chica,2017-10-16,2020-07-11,pies,puli,K
+436,436,737,Felka,2017-04-23,2020-08-22,królik,baranek miniaturka,K
+437,437,484,Dragonka,2018-10-12,2020-03-04,królik,mini rex,K
+438,438,829,Kluska,2018-10-20,2020-08-01,myszoskoczek,,K
+439,439,489,Niki,2013-07-01,2020-07-08,pies,skye,K
+440,440,588,Poziomka,2017-02-25,2019-10-12,pies,szpic,K
+441,441,855,Meggi,2014-05-13,2020-05-26,pies,hokkaido,K
+442,442,861,Sheela,2015-07-25,2021-04-17,pies,hollandse,K
+443,443,440,Ofra,2010-10-15,2020-08-01,pies,wilczak,K
+444,444,19,Gala,2009-04-18,2019-11-11,pies,chiuahua,K
+445,445,761,Meggi,2013-08-16,2020-02-17,kot,bobtail,K
+446,446,525,Fatira,2018-10-18,2020-11-28,kot,bobtail,K
+447,447,69,Nirvana,2016-05-02,2020-05-10,królik,mini rex,K
+448,448,556,Maya,2011-10-23,2020-09-16,kot,perski,K
+449,449,461,Meggi,2019-01-04,2021-04-02,królik,teddy,K
+450,450,683,Cytryna,2014-03-31,2019-12-22,pies,elkhund,K
+451,451,903,Nusia,2015-02-08,2020-07-03,pies,rottweiler,K
+452,452,30,Oreo,2011-11-01,2020-03-13,pies,shiba inu,K
+453,453,599,Pepper,2020-02-25,2020-08-17,świnka morska,abisyńska,K
+454,454,66,Pięknota,2010-10-13,2020-08-07,pies,wilczak,K
+455,455,606,Betty,2015-04-23,2020-10-12,pies,nowofunland,K
+456,456,115,Plamka,2020-08-05,2021-03-13,pies,drever,K
+457,457,998,Plamka,2020-04-24,2020-05-02,pies,hokkaido,K
+458,458,798,Reja,2020-06-02,2021-03-17,pies,ogar,K
+459,459,679,Lucia,2010-11-07,2020-12-21,kot,turecki van,K
+460,460,764,Princess,2014-10-27,2020-01-25,pies,dog,K
+461,461,827,Trusia,2010-01-12,2020-04-26,kot,gagamuffin,K
+462,462,823,Delta,2013-06-24,2020-11-12,kot,tiffanie,K
+463,463,955,Kosmo,2015-06-09,2020-04-18,pies,whippet,K
+464,464,217,Dolly,2011-04-30,2020-01-27,pies,foksterier,K
+465,465,4,Molly,2013-11-08,2020-02-02,pies,alaskan,K
+466,466,536,Milka,2019-06-08,2019-12-08,pies,chart,K
+467,467,524,Aza,2018-12-09,2020-07-06,królik,baranek miniaturka,K
+468,468,34,Księżniczka,2021-02-13,2021-04-10,pies,hollandse,K
+469,469,172,Józia,2018-12-24,2020-05-30,myszoskoczek,,K
+470,470,749,Fika,2014-07-14,2020-08-01,pies,bokser,K
+471,471,851,Aksa,2016-07-14,2020-10-30,kot,bengalski,K
+472,472,373,Mila,2017-04-24,2021-03-09,pies,mastif,K
+473,473,967,Kosmo,2019-07-10,2020-10-07,chomik,,K
+474,474,637,Jackie,2013-12-29,2020-05-24,pies,owczarek,K
+475,475,924,Całka,2013-09-02,2020-04-16,pies,lablador,K
+476,476,457,Elwirka,2020-07-21,2020-08-01,królik,baranek miniaturka,K
+477,477,119,Carlajna,2019-01-11,2020-03-29,kot,tajski,K
+478,478,725,Fredzia,2019-07-28,2020-05-08,kot,europejski,K
+479,479,267,Tesla,2016-07-27,2019-10-15,pies,maltańczyk,K
+480,480,956,Simba,2014-01-11,2020-12-23,pies,faraona,K
+481,481,312,Sallem,2012-05-16,2020-03-16,pies,pinczer,K
+482,482,756,Letty,2017-03-02,2021-04-07,pies,elkhund,K
+483,483,12,Ricco,2020-05-04,2020-06-25,pies,drever,K
+484,484,38,Hiro,2010-03-20,2020-05-09,kot,dachowiec,K
+485,485,909,Candy,2012-03-25,2020-09-28,pies,buldog francuski,K
+486,486,787,Kropka,2007-06-29,2020-10-23,kot,tajski,K
+487,487,736,Tajga,2011-08-08,2019-11-29,kot,maine coon,K
+488,488,215,Pyśka,2019-01-15,2020-01-30,jeż hodowlany,,K
+489,489,878,Peggy,2019-04-01,2020-06-13,pies,skye,K
+490,490,441,Goja,2016-04-26,2020-04-01,pies,berneński,K
+491,491,750,Ruda,2016-05-25,2020-11-22,świnka morska,gładkowłosa,K
+492,492,814,Józia,2016-09-02,2020-05-26,pies,shar pei,K
+493,493,686,Iskra,2010-10-07,2019-12-23,pies,jamnik,K
+494,494,438,Kari,2011-12-21,2019-10-26,pies,nagi,K
+495,495,106,Mani,2012-08-02,2021-01-23,pies,coker spaniel,K
+496,496,809,Figa,2018-01-09,2020-12-17,jeż hodowlany,,K
+497,497,21,Pasja,2016-12-25,2021-04-26,świnka morska,abisyńska,K
+498,498,812,Nutka,2012-04-03,2020-01-05,kot,burmański,K
+499,499,728,Sissi,2009-06-27,2020-04-13,kot,burmański,K
+500,500,347,Liberate,2020-03-06,2020-06-16,pies,welsh corgi,K
+501,501,307,Sunia,2018-02-23,2020-11-03,pies,bloodhound,K
+502,502,65,Marcelina,2011-07-07,2019-10-11,pies,charcik,K
+503,503,179,Alaska,2008-03-08,2021-04-23,kot,brytyjski,K
+504,504,76,Tasia,2019-02-18,2020-05-22,pies,bullmastif,K
+505,505,248,Cekinka,2013-10-20,2021-04-30,pies,cavalier,K
+506,506,659,Dafcia,2017-01-26,2020-05-31,świnka morska,peruwianka,K
+507,507,488,Bletka,2016-08-26,2020-01-02,kot,burmański,K
+508,508,336,Rusia,2013-08-07,2020-05-23,pies,whippet,K
+509,509,964,Glasi,2013-01-09,2021-01-03,pies,hokkaido,K
+510,510,240,Poppi,2011-02-23,2020-05-24,pies,szpic,K
+511,511,231,Mućka,2018-01-29,2020-09-22,pies,pondeco,K
+512,512,884,Bandi,2014-04-30,2020-09-01,pies,elkhund,K
+513,513,713,Józia,2013-12-06,2020-12-16,pies,shiba inu,K
+514,514,140,Mila,2012-01-19,2020-10-13,pies,szpic,K
+515,515,921,Tysia,2014-05-29,2020-07-22,pies,sznaucer,K
+516,516,808,Dżeki,2012-12-06,2020-09-13,pies,doberman,K
+517,517,730,Pestka,2012-01-20,2020-12-05,pies,shiba inu,K
+518,518,472,Mijka,2013-11-25,2020-02-11,pies,shiba inu,K
+519,519,55,Ama,2009-03-12,2020-02-22,kot,gagamuffin,K
+520,520,558,Sasuke,2020-05-24,2020-08-24,pies,pekińczyk,K
+521,521,309,Marysia,2012-07-02,2020-07-14,pies,pudel,K
+522,522,932,Debbie,2015-10-20,2020-05-14,ptak,słowik chiński,K
+523,523,323,Lotta,2013-09-05,2021-01-09,pies,maltańczyk,K
+524,524,258,Blanca,2017-05-27,2021-04-01,pies,cavalier,K
+525,525,482,Alaska,2014-08-22,2020-07-06,pies,rottweiler,K
+526,526,151,Aksa,2016-01-08,2020-02-21,ptak,papużka falista,K
+527,527,515,Sunia,2011-04-29,2020-09-25,pies,skye,K
+528,528,665,Balbina,2018-09-24,2019-10-27,pies,bloodhound,K
+529,529,689,Nesca,2010-02-06,2020-06-30,pies,puli,K
+530,530,970,Lula,2010-11-02,2020-09-01,pies,skye,K
+531,531,51,Tara,2016-10-30,2019-12-28,kot,perski,K
+532,532,796,Frytka,2013-07-19,2019-11-04,kot,bombajski,K
+533,533,919,Ksara,2010-03-02,2020-05-31,pies,bearded collie,K
+534,534,137,Kes,2012-03-30,2020-10-01,pies,wyżeł,K
+535,535,591,Sandra,2015-09-14,2020-10-27,pies,bernardyn,K
+536,536,375,Mrunia,2011-08-02,2020-07-29,pies,ogar,K
+537,537,268,Hikari,2012-05-13,2020-10-09,kot,abisyński,K
+538,538,518,Hana,2013-02-03,2020-01-11,kot,syberyjski,K
+539,539,92,Misa,2013-06-02,2019-11-20,pies,samoyed,K
+540,540,331,Szaga,2011-05-25,2020-11-29,pies,lhasa apso,K
+541,541,671,Stefania,2013-03-31,2021-01-26,kot,hawański,K
+542,542,73,Abra,2010-01-28,2021-05-05,ptak,papuga,K
+543,543,801,Kosmo,2012-01-10,2019-12-05,pies,pudel,K
+544,544,514,Nusia,2011-07-07,2020-01-21,kot,abisyński,K
+545,545,965,Chloe,2008-10-02,2021-04-05,kot,tajski,K
+546,546,926,Mrówka,2013-09-20,2020-01-31,kot,kartuski,K
+547,547,325,Wiera,2019-04-21,2021-05-24,pies,charcik,K
+548,548,825,Jagoda,2014-01-15,2020-10-20,pies,buldog francuski,K
+549,549,417,Szasta,2017-08-04,2020-10-30,pies,grzywacz chiński,K
+550,550,597,Pele,2010-10-18,2019-11-25,kot,abisyński,K
+551,551,313,Klara,2012-07-08,2021-05-29,kot,hawański,K
+552,552,776,Lala,2016-10-21,2020-07-19,świnka morska,abisyńska,K
+553,553,704,Luka,2017-07-08,2020-09-05,królik,teddy,K
+554,554,497,Fizia,2011-09-30,2020-04-25,pies,chow chow,K
+555,555,118,Beza,2015-11-26,2020-05-29,pies,chart,K
+556,556,797,Kleosia,2016-04-03,2020-10-20,pies,szpic,K
+557,557,628,Dora,2016-10-12,2020-02-17,królik,lew miniaturka,K
+558,558,607,Leyla,2018-06-07,2020-11-14,pies,chow chow,K
+559,559,317,Plamcia,2019-10-16,2021-03-06,kot,syberyjski,K
+560,560,326,Bambi,2011-06-19,2020-09-30,kot,amerykański,K
+561,561,641,Nela,2013-11-30,2020-10-19,pies,shiba inu,K
+562,562,661,Axa,2010-05-01,2021-05-02,kot,gagamuffin,K
+563,563,121,Luna,2017-11-10,2020-06-14,jeż hodowlany,,K
+564,564,107,Bodo,2012-07-09,2021-01-23,pies,samoyed,K
+565,565,577,Lajla,2014-09-08,2020-01-26,pies,sznaucer,K
+566,566,449,Cytryna,2010-10-04,2019-10-24,kot,rosyjski,K
+567,567,813,Płoszka,2010-12-28,2021-03-15,kot,burmański,K
+568,568,961,Pchełka,2020-08-01,2020-12-23,ptak,papużka falista,K
+569,569,973,Fatira,2013-05-30,2020-04-29,pies,dog,K
+570,570,132,Queen,2011-03-28,2021-03-18,kot,burmański,K
+571,571,139,Carmen,2013-10-31,2020-10-14,ptak,nimfa,K
+572,572,350,Mela,2014-11-05,2021-02-19,pies,bokser,K
+573,573,134,Heidi,2016-07-22,2020-03-18,pies,buldog angielski,K
+574,574,0,Gapcia,2013-12-04,2021-04-06,pies,akita,K
+575,575,216,Kira,2008-02-13,2020-04-02,kot,perski,K
+576,576,992,Kiker,2017-02-05,2021-05-28,świnka morska,peruwianka,K
+577,577,462,Lusi,2011-09-26,2020-12-21,kot,brytyjski,K
+578,578,936,Marusia,2012-02-11,2020-08-31,kot,perski,K
+579,579,794,Jumka,2018-10-15,2021-02-18,świnka morska,peruwianka,K
+580,580,403,Maja,2018-08-06,2019-12-22,pies,shiba inu,K
+581,581,876,Akuma,2016-03-08,2021-05-11,pies,akita,K
+582,582,158,Tifi,2018-02-03,2020-11-03,pies,hot,K
+583,583,833,Arwena,2013-03-31,2021-06-03,pies,owczarek,K
+584,584,234,Mycha,2018-05-02,2020-01-15,pies,akita,K
+585,585,193,Pchełka,2011-07-11,2020-11-09,pies,charcik,K
+586,586,644,Minka,2020-12-22,2020-12-27,mysz domowa,,K
+587,587,411,Ligia,2015-08-28,2020-05-27,koszatniczka,,K
+588,588,930,Olivia,2012-06-06,2020-12-04,pies,spaniel,K
+589,589,859,Saga,2016-06-17,2020-01-28,pies,terier,K
+590,590,845,moon,2012-03-19,2020-03-15,kot,bombajski,K
+591,591,912,Kari,2014-10-31,2020-05-17,pies,szpic,K
+592,592,157,Kimiko,2020-03-10,2020-10-25,królik,lew miniaturka,K
+593,593,397,Rafa,2017-02-11,2020-04-03,jeż hodowlany,,K
+594,594,388,Dragonka,2011-12-09,2020-06-09,pies,yorkshire terrier,K
+595,595,593,Sunia,2014-11-18,2020-08-17,pies,doberman,K
+596,596,546,Noxa,2013-01-05,2020-05-01,pies,wilczak,K
+597,597,178,Bajra,2016-02-05,2020-10-30,szynszyla,,K
+598,598,857,Lizi,2012-02-12,2020-01-08,kot,bombajski,K
+599,599,894,Solo,2019-09-12,2019-12-29,pies,faraona,K
+600,600,493,Pysia,2016-02-14,2020-11-22,ptak,papużka falista,K
+601,601,392,Rufuska,2020-07-28,2021-01-27,pies,charcik,K
+602,602,510,Mii,2016-04-16,2021-02-16,pies,pondeco,K
+603,603,37,Kira,2014-12-08,2021-05-30,pies,shar pei,K
+604,604,507,Marysia,2016-01-03,2021-05-08,kot,balijski,K
+605,605,775,Ajsza,2013-10-12,2020-02-14,pies,gończy,K
+606,606,161,Sushi,2011-01-16,2020-08-13,pies,yorkshire terrier,K
+607,607,732,Dolly,2017-10-20,2020-05-12,pies,ogar,K
+608,608,583,Salusia,2014-11-16,2020-12-15,pies,sznaucer,K
+609,609,765,Kali,2017-01-09,2019-11-19,pies,yorkshire terrier,K
+610,610,81,Dżejlo,2008-10-04,2020-04-13,kot,brytyjski,K
+611,611,698,Bletka,2016-11-16,2021-03-07,świnka morska,abisyńska,K
+612,612,26,Leyla,2013-04-11,2020-10-17,pies,charcik,K
+613,613,684,Rozi,2014-02-22,2020-09-02,pies,owczarek,K
+614,614,102,Kuga,2018-06-30,2019-11-12,pies,lablador,K
+615,615,95,Dzidka,2016-10-11,2020-07-23,pies,hollandse,K
+616,616,378,Scarlet,2013-03-03,2020-03-14,pies,dog,K
+617,617,46,Ptysia,2012-11-12,2020-08-30,pies,boston tereier,K
+618,618,752,Gandzia,2010-04-15,2020-01-16,pies,yorkshire terrier,K
+619,619,680,Fifidorea,2018-03-27,2020-03-13,pies,hot,K
+620,620,831,Krysia,2017-08-23,2019-11-27,kot,perski,K
+621,621,320,Isia,2015-12-03,2019-11-07,kot,burmański,K
+622,622,75,Lenka,2008-06-11,2020-06-02,pies,pudel,K
+623,623,769,Basta,2016-05-11,2020-01-25,królik,lew miniaturka,K
+624,624,668,Szerpa,2012-01-30,2020-08-17,pies,boston tereier,K
+625,625,418,Ksara,2012-10-16,2019-10-27,pies,chow chow,K
+626,626,270,Szyszka,2012-01-15,2021-04-14,pies,shiba inu,K
+627,627,264,Meggi,2021-04-29,2021-05-05,kot,dachowiec,K
+628,628,251,Inka,2015-01-26,2020-01-30,pies,akita,K
+629,629,287,Lonelity,2020-03-29,2020-10-03,świnka morska,peruwianka,K
+630,630,334,Bazia,2011-05-21,2020-05-03,pies,yorkshire terrier,K
+631,631,208,Sissi,2011-08-11,2020-11-25,kot,ragdoll,K
+632,632,278,Dziunia,2010-07-09,2020-01-25,pies,beagle,K
+633,633,610,Bunia,2018-09-18,2019-11-17,pies,charcik,K
+634,634,343,Gini,2014-07-03,2020-02-09,pies,drever,K
+635,635,887,Leia,2011-08-16,2020-03-10,kot,hawański,K
+636,636,209,Leia,2012-06-06,2020-11-01,kot,hawański,K
+637,637,789,Carmel,2018-03-07,2021-02-27,kot,abisyński,K
+638,638,145,Mufka,2017-09-05,2019-11-18,jeż hodowlany,,K
+639,639,13,Lucia,2013-05-18,2020-01-20,pies,alaskan,K
+640,640,880,Tila,2016-08-17,2020-05-10,kot,ragdoll,K
+641,641,643,Kuka,2020-04-21,2021-03-04,pies,hokkaido,K
+642,642,284,Akuma,2018-03-13,2020-08-14,pies,drever,K
+643,643,195,Blanca,2009-09-04,2020-03-29,kot,brytyjski,K
+644,644,991,Mitka,2015-08-18,2020-05-19,pies,buldog angielski,K
+645,645,387,Fika,2011-02-16,2020-06-27,kot,turecki van,K
+646,646,856,Maja,2018-07-05,2020-10-17,ptak,kanarek,K
+647,647,423,Aysha,2017-03-05,2021-02-04,kot,bengalski,K
+648,648,547,Ama,2015-05-11,2020-07-20,pies,pinczer,K
+649,649,550,Mini,2013-12-30,2020-09-25,pies,husky,K
+650,650,80,Elka,2016-02-25,2020-04-25,świnka morska,gładkowłosa,K
+651,651,675,Frotka,2016-11-27,2020-05-04,kot,bombajski,K
+652,652,465,Florka,2015-08-20,2021-04-08,koszatniczka,,K
+653,653,422,Plamka,2009-09-07,2020-08-22,kot,tajski,K
+654,654,528,Misia,2016-02-07,2021-05-20,pies,hollandse,K
+655,655,695,Kovu,2015-10-09,2020-04-02,pies,hollandse,K
+656,656,611,Bakara,2013-06-04,2021-02-14,pies,spaniel,K
+657,657,733,Julka,2013-03-17,2020-08-19,pies,pondeco,K
+658,658,815,Ligia,2017-11-27,2019-12-26,ptak,nimfa,K
+659,659,997,Mani,2020-12-23,2021-02-07,pies,mastif,K
+660,660,282,Biała,2015-05-31,2020-06-22,pies,buldog angielski,K
+661,661,16,Morena,2009-08-25,2020-04-21,pies,wilczak,K
+662,662,993,Malwka,2016-07-17,2020-05-31,pies,welsh corgi,K
+663,663,314,Dafcia,2017-09-05,2020-07-25,pies,hollandse,K
+664,664,838,Carmen,2017-07-20,2021-02-27,pies,lhasa apso,K
+665,665,553,Prima,2015-03-15,2020-11-03,pies,mastif,K
+666,666,117,Dżeki,2018-12-25,2020-02-19,świnka morska,peruwianka,K
+667,667,503,Gapcia,2013-04-29,2020-02-10,pies,mops,K
+668,668,210,Doris,2019-02-28,2019-11-22,pies,gończy,K
+669,669,274,Fela,2009-12-16,2020-07-23,kot,abisyński,K
+670,670,321,Nesca,2015-09-26,2021-03-23,pies,buldog francuski,K
+671,671,508,Milka,2012-07-30,2020-08-10,kot,bobtail,K
+672,672,200,Lunia,2020-08-18,2020-09-11,pies,buldog angielski,K
+673,673,598,Nutka,2016-03-11,2020-05-25,pies,nowofunland,K
+674,674,496,Jira,2018-06-06,2020-04-30,pies,alaskan,K
+675,675,372,Fibi,2013-03-24,2021-05-31,pies,husky,K
+676,676,370,Dolly,2012-08-28,2020-01-06,pies,bloodhound,K
+677,677,197,Józia,2014-03-19,2020-08-26,pies,faraona,K
+678,678,842,Migotka,2018-11-17,2020-05-16,pies,hot,K
+679,679,183,Keysi,2011-02-18,2019-10-15,kot,turecki van,K
+680,680,108,Dżelka,2013-02-08,2020-08-28,kot,syberyjski,K
+681,681,435,Dianka,2017-04-23,2019-10-16,pies,berneński,K
+682,682,758,Elwirka,2011-05-01,2019-11-08,pies,wyżeł,K
+683,683,975,Dama,2018-01-27,2020-12-24,świnka morska,gładkowłosa,K
+684,684,969,Chika,2011-10-26,2020-12-29,pies,shiba inu,K
+685,685,152,Misia,2014-07-15,2020-05-11,pies,gończy,K
+686,686,322,Stefcia,2010-07-16,2020-12-18,pies,jamnik,K
+687,687,551,Nusia,2020-09-20,2021-02-07,pies,dalmatyńczyk,K
+688,688,226,Nuśka,2011-04-16,2021-03-22,pies,jamnik,K
+689,689,276,Inka,2012-05-01,2021-05-21,pies,boston tereier,K
+690,690,425,Nuśka,2019-05-22,2020-05-20,kot,abisyński,K
+691,691,386,Kornelia,2016-01-08,2020-09-12,pies,drever,K
+692,692,946,Bunia,2018-03-31,2019-12-23,pies,terier,K
+693,693,875,Mycha,2016-06-22,2020-09-21,koszatniczka,,K
+694,694,383,Nami,2020-04-15,2021-05-15,pies,pekińczyk,K
+695,695,770,Kenay,2011-08-08,2020-07-20,pies,jamnik,K
+696,696,604,Merida,2015-03-20,2021-01-01,szynszyla,,K
+697,697,56,Mufinka,2016-09-24,2020-02-09,pies,drever,K
+698,698,529,Wenus,2013-11-09,2021-03-30,pies,dog,K
+699,699,631,Pepper,2013-03-17,2020-09-27,pies,sznaucer,K
+700,700,999,Chini,2014-03-07,2021-03-14,pies,kelpie,K
+701,701,155,Cassie,2019-09-30,2020-08-12,pies,buldog angielski,K
+702,702,24,Wiera,2013-10-07,2019-12-18,pies,samoyed,K
+703,703,918,Sejka,2020-05-09,2020-06-11,kot,bengalski,K
+704,704,485,Latte,2012-10-05,2020-04-17,kot,sfinks,K
+705,705,371,Peppa,2010-12-20,2019-11-02,kot,amerykański,K
+706,706,237,Paksa,2012-05-01,2019-10-20,kot,dachowiec,K
+707,707,811,Czika,2012-08-31,2020-11-30,pies,buldog francuski,K
+708,708,126,Dama,2013-07-20,2021-05-15,pies,dog,K
+709,709,91,Moli,2011-09-04,2021-05-19,pies,grzywacz chiński,K
+710,710,532,Bona,2021-02-11,2021-03-03,świnka morska,gładkowłosa,K
+711,711,945,Czika,2014-04-12,2021-03-18,pies,chart,K
+712,712,897,Emi,2019-10-30,2020-01-14,kot,bobtail,K
+713,713,261,Lunia,2013-09-22,2020-05-20,pies,sznaucer,K
+714,714,94,Perła,2010-11-13,2020-07-27,kot,turecki van,K
+715,715,265,Clea,2009-03-08,2021-02-25,ptak,papuga,K
+716,716,954,Kama,2020-06-28,2021-01-16,pies,buldog francuski,K
+717,717,377,Nitka,2011-06-09,2021-04-29,pies,shih tzu,K
+718,718,554,Ravi,2018-06-23,2021-03-25,pies,chow chow,K
+719,719,883,Diana,2012-03-23,2021-05-09,pies,pekińczyk,K
+720,720,900,Chika,2020-09-06,2020-12-17,kot,dachowiec,K
+721,721,608,Liya,2015-02-01,2020-08-25,pies,buldog angielski,K
+722,722,652,Tini,2017-04-02,2020-10-01,jeż hodowlany,,K
+723,723,672,Rafa,2011-10-14,2020-09-27,pies,spaniel,K
+724,724,305,Moli,2011-10-15,2020-08-23,pies,chow chow,K
+725,725,483,Merry,2011-07-07,2020-08-25,kot,abisyński,K
+726,726,146,Szara,2013-04-23,2020-03-17,pies,bokser,K
+727,727,574,Cytryna,2012-01-03,2021-04-29,kot,sfinks,K
+728,728,170,Kala,2013-09-16,2021-05-30,pies,golden retriever,K
+729,729,886,Rufi,2014-03-27,2021-01-01,pies,pudel,K
+730,730,295,Fiona,2012-08-25,2020-03-05,pies,charcik,K
+731,731,444,Ligia,2013-01-21,2020-02-08,pies,yorkshire terrier,K
+732,732,478,Daisy,2018-11-05,2020-04-14,pies,buldog angielski,K
+733,733,573,Estrada,2013-02-14,2021-03-17,pies,elkhund,K
+734,734,817,Lena,2015-08-03,2019-10-14,kot,bombajski,K
+735,735,57,Huana,2012-12-23,2020-01-04,pies,pudel,K
+736,736,848,Punia,2012-02-24,2020-02-20,pies,puli,K
+737,737,781,Jetta,2011-08-18,2021-01-27,kot,europejski,K
+738,738,48,Abi,2019-04-20,2020-12-26,szczur domowy,,K
+739,739,724,Kes,2012-10-11,2020-09-01,kot,hawański,K
+740,740,29,Florka,2013-08-07,2020-09-08,pies,dog,K
+741,741,84,Mućka,2010-11-15,2019-11-25,pies,charcik,K
+742,742,77,Layla,2019-02-07,2021-01-12,pies,shar pei,K
+743,743,742,Rosa,2017-02-09,2021-01-21,kot,bengalski,K
+744,744,603,Marysia,2018-03-16,2020-11-08,pies,lablador,K
+745,745,192,Lucia,2017-09-12,2020-12-16,świnka morska,peruwianka,K
+746,746,391,Blu,2017-06-12,2021-05-31,królik,teddy,K
+747,747,404,Ptysia,2011-04-08,2021-05-24,pies,puli,K
+748,748,690,Mii,2017-06-30,2021-02-24,królik,baranek miniaturka,K
+749,749,127,Goja,2013-04-06,2020-03-05,pies,maltańczyk,K
+750,750,443,Lusia,2016-09-05,2021-03-01,kot,europejski,K
+751,751,357,Gordon,2009-11-13,2021-02-18,kot,syjamski,M
+752,752,879,Clifford,2013-12-30,2019-10-10,pies,shiba inu,M
+753,753,393,Bączuś,2012-04-04,2021-02-15,kot,ragdoll,M
+754,754,452,Majszi,2013-12-01,2020-01-30,pies,lablador,M
+755,755,230,Scotti,2015-01-23,2021-01-31,pies,bullmastif,M
+756,756,296,Wiesław,2019-01-02,2021-05-27,pies,bearded collie,M
+757,757,995,Silver,2017-12-24,2021-01-14,królik,teddy,M
+758,758,54,Cappuccino,2009-02-27,2020-03-13,kot,syjamski,M
+759,759,324,Sherlon,2018-07-23,2020-06-30,pies,husky,M
+760,760,705,Dunio,2011-10-05,2019-11-29,kot,hawański,M
+761,761,545,Parys,2020-11-15,2021-02-03,pies,chiuahua,M
+762,762,506,Kierat,2020-07-25,2020-12-20,pies,bokser,M
+763,763,579,Django,2021-04-18,2021-06-02,pies,shiba inu,M
+764,764,116,Moris,2009-12-13,2020-02-25,kot,burmański,M
+765,765,427,Tołdi,2015-01-07,2020-09-08,pies,chart,M
+766,766,760,Tomi,2012-09-12,2020-11-20,kot,bobtail,M
+767,767,6,Teo,2015-11-09,2021-03-07,pies,berneński,M
+768,768,929,Spajkuś,2014-10-09,2020-09-12,pies,nowofunland,M
+769,769,928,Charm,2011-04-06,2020-10-25,pies,buldog francuski,M
+770,770,18,Bunio,2012-04-20,2021-01-19,pies,lhasa apso,M
+771,771,467,Jimmy,2017-05-01,2020-07-05,świnka morska,abisyńska,M
+772,772,874,Bruno,2018-01-15,2020-09-21,królik,teddy,M
+773,773,61,Książe,2016-12-09,2019-12-09,pies,maltańczyk,M
+774,774,205,Beilis,2013-10-25,2019-12-22,pies,bokser,M
+775,775,401,Adi,2011-12-11,2021-05-24,pies,pinczer,M
+776,776,44,Pixel,2018-02-24,2020-04-23,pies,foksterier,M
+777,777,413,Femi,2020-04-07,2020-09-03,kot,hawański,M
+778,778,402,Józio,2011-07-16,2021-04-14,pies,whippet,M
+779,779,332,Alpi,2010-08-28,2020-01-25,pies,bearded collie,M
+780,780,36,Finiek,2017-01-26,2020-01-03,pies,gończy,M
+781,781,144,Toni,2015-10-02,2020-02-22,świnka morska,gładkowłosa,M
+782,782,164,Fuksik,2018-12-24,2020-07-19,kot,bengalski,M
+783,783,527,Mambo,2016-11-04,2021-05-15,świnka morska,abisyńska,M
+784,784,667,Tago,2012-12-10,2020-11-18,pies,kelpie,M
+785,785,989,Rasti,2020-06-18,2021-05-17,kot,egzotyczny,M
+786,786,854,House,2016-10-09,2020-03-04,pies,komondor,M
+787,787,83,Leoncjo,2018-07-05,2020-08-18,pies,bloodhound,M
+788,788,245,Lenny,2011-02-13,2020-10-07,pies,welsh corgi,M
+789,789,697,Jackie,2020-06-13,2020-09-14,szczur domowy,,M
+790,790,414,Bombel,2017-08-23,2021-04-16,świnka morska,gładkowłosa,M
+791,791,43,Rangar,2020-07-03,2021-01-09,kot,europejski,M
+792,792,707,Groszek,2010-05-05,2021-01-08,kot,amerykański,M
+793,793,468,Demon,2016-03-14,2019-10-16,pies,chart,M
+794,794,310,Fokus,2011-06-07,2020-03-08,pies,nagi,M
+795,795,850,Manfred,2009-07-02,2021-01-23,pies,beagle,M
+796,796,635,Ego,2014-08-29,2020-11-08,ptak,kanarek,M
+797,797,502,Opel,2009-08-23,2020-03-29,kot,turecki van,M
+798,798,753,Kayko,2012-07-19,2020-09-09,pies,jamnik,M
+799,799,113,Gorge,2014-03-23,2019-11-30,pies,hawańczyk,M
+800,800,368,Paco,2017-02-27,2020-12-25,pies,chow chow,M
+801,801,213,Elvis,2009-12-20,2020-04-24,kot,perski,M
+802,802,706,Ego,2011-01-01,2020-04-23,kot,perski,M
+803,803,870,Dukat,2020-02-15,2021-01-09,pies,spaniel,M
+804,804,477,Lisek,2014-05-29,2020-10-01,pies,rottweiler,M
+805,805,463,Kosmo,2014-02-17,2020-12-31,pies,lablador,M
+806,806,451,Trufel,2011-03-13,2020-09-24,pies,chow chow,M
+807,807,538,Choco,2012-08-12,2020-05-07,pies,lablador,M
+808,808,942,Kraken,2012-03-03,2021-04-11,pies,wilczak,M
+809,809,821,Zora,2019-07-08,2019-10-27,koszatniczka,,M
+810,810,696,Lolek,2013-03-29,2020-03-07,pies,nagi,M
+811,811,79,Bruni,2016-03-07,2020-04-07,kot,bengalski,M
+812,812,473,Szaruś,2020-04-09,2020-12-13,ptak,nimfa,M
+813,813,379,Louis,2016-05-19,2020-02-15,pies,buldog francuski,M
+814,814,688,Hektor,2011-10-25,2020-08-20,pies,shiba inu,M
+815,815,727,Felix,2021-02-08,2021-02-13,szczur domowy,,M
+816,816,871,Tiger,2016-02-05,2020-12-11,świnka morska,peruwianka,M
+817,817,810,Cynamon,2021-04-18,2021-05-09,kot,bengalski,M
+818,818,50,Saki,2020-02-12,2021-02-06,świnka morska,peruwianka,M
+819,819,559,Platon,2019-08-14,2021-05-26,pies,coker spaniel,M
+820,820,167,Stanly,2018-04-29,2020-02-06,królik,lew miniaturka,M
+821,821,366,Eguś,2016-05-20,2019-12-22,świnka morska,gładkowłosa,M
+822,822,238,Nelos,2013-06-10,2019-11-24,pies,spaniel,M
+823,823,381,Kazik,2014-12-03,2020-03-28,pies,lablador,M
+824,824,246,Dexter,2020-10-22,2021-01-31,pies,akita,M
+825,825,743,Ciastek,2012-10-07,2020-06-13,pies,basenji,M
+826,826,471,Tami,2017-02-10,2020-06-06,koszatniczka,,M
+827,827,920,Dunio,2013-04-26,2020-01-18,pies,sznaucer,M
+828,828,872,Wiewiór,2019-03-13,2020-04-14,koszatniczka,,M
+829,829,198,Bounty,2011-10-08,2020-08-15,pies,szpic,M
+830,830,58,Benio,2021-01-08,2021-02-22,koszatniczka,,M
+831,831,432,Protos,2013-05-19,2021-04-04,pies,elkhund,M
+832,832,131,Gabor,2013-10-31,2020-06-28,pies,seter,M
+833,833,149,Garfild,2016-01-08,2020-03-22,pies,hollandse,M
+834,834,293,Pimpu,2012-04-24,2021-04-07,pies,komondor,M
+835,835,445,Tasman,2013-04-09,2021-01-01,kot,tiffanie,M
+836,836,560,Jackie,2015-03-12,2020-07-22,pies,bernardyn,M
+837,837,89,Gabor,2011-11-23,2021-04-20,kot,doński,M
+838,838,757,Maniek,2012-12-15,2020-02-22,pies,shiba inu,M
+839,839,169,Zorka,2009-07-26,2020-02-27,kot,turecki van,M
+840,840,685,Kminek,2013-11-29,2020-12-02,pies,mops,M
+841,841,250,Piracik,2011-10-17,2020-08-13,pies,nagi,M
+842,842,906,Arczci,2011-02-27,2020-04-05,ptak,papuga,M
+843,843,784,Koko,2013-09-11,2020-02-09,pies,hokkaido,M
+844,844,729,Milky,2017-05-11,2020-07-17,kot,bobtail,M
+845,845,166,Jorguś,2012-08-11,2020-06-13,kot,ragdoll,M
+846,846,512,Freddie,2020-05-31,2021-02-20,pies,nagi,M
+847,847,745,Hyziek,2010-09-28,2020-10-24,pies,spaniel,M
+848,848,68,Drops,2010-10-11,2020-05-21,kot,doński,M
+849,849,627,Chiko,2013-02-04,2020-07-01,pies,ogar,M
+850,850,587,Szarek,2013-11-11,2020-11-22,pies,dalmatyńczyk,M
+851,851,934,Riko,2015-04-25,2020-04-19,ptak,kanarek,M
+852,852,681,Baksio,2011-12-11,2020-08-22,pies,jamnik,M
+853,853,27,Badi,2018-08-13,2019-11-29,jeż hodowlany,,M
+854,854,206,Hikari,2017-06-13,2020-04-24,pies,chow chow,M
+855,855,433,Tai,2013-07-26,2021-05-30,kot,dachowiec,M
+856,856,428,Syriusz,2020-10-09,2021-02-23,pies,coker spaniel,M
+857,857,937,Kazio,2013-05-02,2020-11-29,pies,shar pei,M
+858,858,424,Chiko,2010-05-10,2019-11-30,kot,burmański,M
+859,859,771,Cynamon,2009-03-12,2021-04-18,pies,chiuahua,M
+860,860,895,Spontan,2018-02-20,2019-12-14,kot,bombajski,M
+861,861,911,Bibi,2015-11-09,2021-05-20,pies,ogar,M
+862,862,632,Lester,2013-05-23,2020-10-10,pies,pekińczyk,M
+863,863,62,Rex,2018-08-06,2021-05-26,kot,bombajski,M
+864,864,509,Loras,2018-09-09,2021-03-01,pies,bullmastif,M
+865,865,657,Graffi,2014-07-11,2019-12-27,pies,cavalier,M
+866,866,308,Kasel,2011-05-05,2019-11-16,pies,hawańczyk,M
+867,867,572,Lupi,2014-08-14,2021-06-01,pies,akita,M
+868,868,922,Szczepan,2015-04-25,2020-02-14,pies,rottweiler,M
+869,869,893,Majszi,2016-04-29,2020-11-02,pies,basenji,M
+870,870,419,Kali,2013-03-03,2019-12-08,pies,charcik,M
+871,871,609,Szeryf,2014-10-27,2020-07-20,pies,shar pei,M
+872,872,214,Jordan,2016-04-15,2020-10-14,pies,buldog angielski,M
+873,873,280,Brunek,2017-05-09,2021-01-13,pies,charcik,M
+874,874,803,Coffee,2018-05-07,2020-05-04,jeż hodowlany,,M
+875,875,847,Lilo,2016-08-02,2020-02-29,kot,burmański,M
+876,876,862,Knapik,2015-06-07,2021-04-29,pies,drever,M
+877,877,3,Kovu,2016-03-10,2021-01-17,pies,golden retriever,M
+878,878,395,Dżidżun,2017-11-15,2020-03-01,pies,bloodhound,M
+879,879,521,Kokosz,2018-08-21,2019-12-31,pies,jamnik,M
+880,880,891,Lerek,2020-01-16,2020-12-04,kot,syberyjski,M
+881,881,181,Józio,2015-12-02,2020-11-03,ptak,kanarek,M
+882,882,594,Femi,2019-11-04,2020-12-11,pies,bloodhound,M
+883,883,950,Loki,2012-02-28,2019-12-25,pies,shiba inu,M
+884,884,772,Klemens,2012-11-24,2020-07-16,kot,hawański,M
+885,885,398,Daffi,2015-06-02,2020-10-20,królik,holenderski,M
+886,886,677,Zorka,2017-07-06,2020-06-30,kot,tiffanie,M
+887,887,972,Józio,2020-10-23,2020-11-27,pies,skye,M
+888,888,376,Teoś,2010-12-26,2020-12-30,pies,pinczer,M
+889,889,682,Leonidas,2013-04-14,2019-10-28,pies,golden retriever,M
+890,890,585,Mikie,2012-05-26,2020-08-10,pies,łajka,M
+891,891,306,moon,2012-06-19,2021-01-07,pies,terier,M
+892,892,767,Haru,2014-04-29,2020-04-29,pies,foksterier,M
+893,893,100,Kusko,2013-02-16,2020-12-15,pies,szpic,M
+894,894,199,Azard,2009-08-07,2021-03-25,kot,gagamuffin,M
+895,895,104,Rojter,2019-03-03,2020-09-04,pies,chart,M
+896,896,567,Olivier,2014-04-22,2020-11-29,pies,hollandse,M
+897,897,70,Mers,2013-07-04,2020-08-20,kot,doński,M
+898,898,544,Kobi,2014-10-23,2021-02-12,pies,gończy,M
+899,899,180,Brasko,2013-05-09,2021-05-13,pies,buldog francuski,M
+900,900,835,Tuptuś,2013-08-15,2020-03-15,kot,egzotyczny,M
+901,901,421,Nero,2019-09-04,2021-03-28,szczur domowy,,M
+902,902,41,Edek,2018-07-04,2020-03-17,kot,tiffanie,M
+903,903,74,Hikari,2015-08-14,2021-04-22,pies,nowofunland,M
+904,904,589,Muchomor,2013-07-16,2020-07-25,pies,husky,M
+905,905,569,Tarek,2018-05-19,2019-11-15,królik,baranek miniaturka,M
+906,906,367,Kierat,2014-09-07,2020-07-15,pies,bernardyn,M
+907,907,364,Dolar,2014-03-19,2020-10-25,ptak,nimfa,M
+908,908,617,Szejk,2016-06-29,2020-02-19,ptak,słowik chiński,M
+909,909,614,Largo,2017-04-07,2020-04-08,królik,lew miniaturka,M
+910,910,977,Argus,2011-11-08,2020-12-08,pies,yorkshire terrier,M
+911,911,225,Adi,2018-06-19,2021-04-10,pies,ogar,M
+912,912,877,Clifford,2020-09-25,2020-12-27,jeż hodowlany,,M
+913,913,481,Roofi,2016-05-29,2020-11-23,pies,elkhund,M
+914,914,196,Obi,2018-08-05,2020-12-03,myszoskoczek,,M
+915,915,98,Ami,2014-12-20,2020-11-23,pies,whippet,M
+916,916,311,Skalpel,2019-02-01,2019-10-30,pies,boston tereier,M
+917,917,283,Bessi,2014-07-30,2020-10-09,pies,seter,M
+918,918,693,Scotti,2011-09-14,2020-10-23,pies,grzywacz chiński,M
+919,919,755,Bongo,2012-12-23,2019-11-29,pies,bearded collie,M
+920,920,836,Floki,2012-07-31,2020-06-13,kot,europejski,M
+921,921,523,Nix,2018-09-14,2020-01-18,pies,hollandse,M
+922,922,520,Azor,2010-06-08,2020-02-11,pies,welsh corgi,M
+923,923,731,Tedi,2010-08-17,2020-10-14,kot,burmański,M
+924,924,352,Magnum,2009-11-05,2020-08-07,pies,chiuahua,M
+925,925,255,Blue,2012-12-29,2020-01-03,pies,pekińczyk,M
+926,926,356,William,2012-04-25,2020-10-31,pies,buhund,M
+927,927,601,Mały,2014-04-01,2021-03-21,pies,faraona,M
+928,928,907,Spajkuś,2017-06-23,2020-01-22,pies,szpic,M
+929,929,299,Ivar,2011-03-18,2021-04-17,kot,maine coon,M
+930,930,408,Reksio,2017-01-12,2021-05-11,świnka morska,peruwianka,M
+931,931,873,Tajfun,2020-05-24,2021-04-28,mysz domowa,,M
+932,932,820,Elvis,2017-03-27,2021-04-21,pies,shih tzu,M
+933,933,670,Wedel,2020-01-18,2021-04-28,pies,foksterier,M
+934,934,335,Largo,2018-05-26,2020-09-24,koszatniczka,,M
+935,935,615,Odi,2014-11-10,2020-03-20,pies,pekińczyk,M
+936,936,67,Ciastek,2014-04-13,2021-04-13,pies,hollandse,M
+937,937,963,Ciciuś,2019-11-23,2021-02-16,pies,akita,M
+938,938,188,Loco,2006-08-13,2020-01-17,kot,tajski,M
+939,939,143,Tofik,2014-06-24,2020-03-02,pies,dalmatyńczyk,M
+940,940,634,Flo,2011-03-27,2020-02-27,pies,samoyed,M
+941,941,951,Zoja,2016-03-11,2020-07-29,pies,bernardyn,M
+942,942,460,Ravi,2010-10-10,2020-03-19,kot,abisyński,M
+943,943,988,Snickers,2013-03-07,2019-11-21,kot,hawański,M
+944,944,486,Witek,2018-04-08,2020-05-30,pies,yorkshire terrier,M
+945,945,218,Daster,2009-07-11,2019-10-11,pies,bearded collie,M
+946,946,947,Ruben,2011-11-11,2021-01-10,kot,burmański,M
+947,947,236,Baloo,2016-05-25,2020-12-30,świnka morska,gładkowłosa,M
+948,948,495,Billy,2010-11-26,2020-10-09,kot,doński,M
+949,949,959,Garfild,2015-05-23,2021-04-05,ptak,kanarek,M
+950,950,220,Pixel,2020-11-04,2021-06-02,myszoskoczek,,M
+951,951,662,Orest,2009-02-02,2020-03-17,pies,basenji,M
+952,952,420,Fenuś,2020-08-20,2020-12-22,pies,puli,M
+953,953,25,Malkolm,2018-07-05,2020-09-05,ptak,kanarek,M
+954,954,619,Gizmo,2014-09-10,2020-04-13,pies,dog,M
+955,955,10,Pirat,2012-07-29,2020-05-05,pies,puli,M
+956,956,899,Resco,2020-03-02,2020-05-02,pies,kelpie,M
+957,957,576,Ciapek,2012-04-25,2020-08-27,kot,egzotyczny,M
+958,958,709,Bazyli,2014-08-26,2020-10-19,królik,holenderski,M
+959,959,852,Cynamon,2016-10-07,2021-05-04,ptak,papuga,M
+960,960,739,Falkor,2011-01-21,2020-05-30,kot,egzotyczny,M
+961,961,751,Garry,2015-03-28,2021-03-19,pies,chart,M
+962,962,142,Billy,2013-12-08,2019-12-25,pies,akita,M
+963,963,254,Orio,2020-02-12,2021-02-08,pies,pondeco,M
+964,964,354,DJ,2016-01-28,2021-02-20,królik,holenderski,M
+965,965,415,Józio,2011-01-14,2020-04-23,pies,nagi,M
+966,966,923,Kazik,2013-08-03,2021-02-19,pies,beagle,M
+967,967,39,Józio,2019-09-08,2019-11-10,kot,bengalski,M
+968,968,774,Majster,2013-04-14,2021-05-15,kot,himalajski,M
+969,969,996,Figaro,2016-12-24,2021-05-27,pies,sznaucer,M
+970,970,759,Bryś,2011-10-06,2020-11-09,pies,welsh corgi,M
+971,971,361,Kapsel,2014-10-10,2020-03-28,pies,hokkaido,M
+972,972,654,Kostek,2015-12-15,2021-04-01,królik,mini rex,M
+973,973,177,Jarhead,2016-09-10,2021-04-26,królik,baranek miniaturka,M
+974,974,365,Tygrys,2018-06-10,2021-01-13,pies,hot,M
+975,975,692,Wedel,2020-04-12,2020-10-29,pies,lablador,M
+976,976,168,Piorun,2012-12-19,2021-03-27,pies,faraona,M
+977,977,844,Rokuś,2018-08-17,2021-04-03,pies,hot,M
+978,978,819,Bono,2014-08-24,2020-11-01,pies,rottweiler,M
+979,979,329,Malmo,2012-03-18,2019-11-15,pies,basenji,M
+980,980,458,Floki,2012-04-03,2021-05-23,pies,pinczer,M
+981,981,516,Cleo,2016-05-09,2020-10-31,kot,bengalski,M
+982,982,396,Cleo,2014-11-16,2020-12-18,pies,buldog angielski,M
+983,983,782,Dafinek,2015-07-22,2021-02-21,królik,holenderski,M
+984,984,543,Dino,2011-06-22,2020-08-19,pies,welsh corgi,M
+985,985,328,Cosinus,2015-02-17,2021-04-09,pies,rottweiler,M
+986,986,187,Junior,2011-02-12,2020-05-06,pies,bearded collie,M
+987,987,253,Rocco,2014-07-28,2019-12-14,kot,bobtail,M
+988,988,935,Regis,2014-03-16,2021-04-24,pies,shar pei,M
+989,989,150,Karlus,2015-10-15,2020-05-27,pies,chart,M
+990,990,15,Jim,2013-07-23,2020-07-11,pies,ogar,M
+991,991,203,Akeno,2019-03-04,2020-03-14,pies,dog,M
+992,992,87,Rufi,2015-03-10,2020-04-12,pies,bullmastif,M
+993,993,985,Mambo,2008-11-16,2019-10-13,kot,syjamski,M
+994,994,281,Skoti,2011-11-29,2019-12-03,kot,bobtail,M
+995,995,902,Kiwi,2019-05-11,2020-05-16,pies,whippet,M
+996,996,638,Arson,2012-12-31,2021-05-08,pies,pondeco,M
+997,997,257,Paco,2015-01-21,2020-07-17,pies,komondor,M
+998,998,971,Gumiś,2012-02-26,2020-03-21,pies,terier,M
+999,999,981,Nero,2011-02-01,2019-12-05,kot,burmański,M
+1000,1000,621,Barry,2016-04-09,2020-09-17,ptak,papużka falista,M
+1001,1001,580,Knapik,2012-08-24,2020-12-19,kot,dachowiec,M
+1002,1002,57,Jeff,2018-09-22,2019-10-18,pies,komondor,M
+1003,1003,105,Apik,2018-02-19,2020-03-16,królik,lew miniaturka,M
+1004,1004,811,Talon,2010-02-26,2020-11-27,pies,pinczer,M
+1005,1005,329,Colly,2019-07-16,2021-03-07,kot,kartuski,M
+1006,1006,767,Ares,2017-08-13,2021-04-04,kot,tiffanie,M
+1007,1007,823,Dekster,2013-08-16,2021-04-16,pies,grzywacz chiński,M
+1008,1008,682,Demon,2012-06-01,2021-05-23,pies,pondeco,M
+1009,1009,382,Hades,2019-06-30,2019-11-01,chomik,,M
+1010,1010,984,Tasman,2010-11-02,2020-12-23,pies,szpic,M
+1011,1011,161,Bono,2011-07-20,2020-04-29,pies,pudel,M
+1012,1012,996,Kenzo,2012-04-17,2021-01-16,kot,cornish,M
+1013,1013,285,Kokosz,2020-09-24,2021-04-15,szczur domowy,,M
+1014,1014,70,Way,2016-08-10,2020-01-16,królik,mini rex,M
+1015,1015,766,Lerek,2014-06-25,2020-12-03,pies,komondor,M
+1016,1016,453,Nelson,2018-01-03,2020-01-13,kot,sfinks,M
+1017,1017,885,Tropek,2017-02-27,2021-03-28,pies,grzywacz chiński,M
+1018,1018,566,Piksel,2010-11-13,2021-03-09,kot,perski,M
+1019,1019,834,Lupus,2013-02-09,2020-01-18,pies,pondeco,M
+1020,1020,396,Fluffi,2008-11-27,2020-07-07,kot,gagamuffin,M
+1021,1021,514,Igor,2009-04-20,2019-12-08,kot,burmański,M
+1022,1022,25,May,2017-04-24,2020-04-09,królik,baranek miniaturka,M
+1023,1023,312,Barry,2010-10-16,2020-08-16,pies,bearded collie,M
+1024,1024,125,Ori,2014-05-06,2020-02-19,pies,gończy,M
+1025,1025,407,Niko,2010-12-01,2020-09-11,kot,cornish,M
+1026,1026,564,Levis,2020-04-09,2020-07-22,ptak,nimfa,M
+1027,1027,197,Neo,2012-01-23,2021-04-02,kot,sfinks,M
+1028,1028,810,Blue,2011-01-06,2020-10-18,pies,beagle,M
+1029,1029,187,Boss,2012-04-30,2020-01-22,kot,doński,M
+1030,1030,697,Mer,2017-04-07,2021-04-01,świnka morska,peruwianka,M
+1031,1031,816,Bubuś,2014-07-01,2020-09-22,pies,boston tereier,M
+1032,1032,809,Sajgon,2017-05-06,2020-08-16,kot,syberyjski,M
+1033,1033,715,Piksel,2012-04-27,2020-06-26,pies,seter,M
+1034,1034,483,Jim,2017-03-19,2019-12-08,królik,teddy,M
+1035,1035,449,Bounty,2018-01-13,2020-09-01,pies,chart,M
+1036,1036,522,Tosiak,2021-03-06,2021-03-06,pies,chart,M
+1037,1037,870,Aron,2011-02-23,2020-02-14,pies,yorkshire terrier,M
+1038,1038,353,Amol,2019-10-07,2021-05-20,jeż hodowlany,,M
+1039,1039,985,Bil,2019-02-19,2021-03-27,pies,hot,M
+1040,1040,657,Nelson,2018-03-21,2021-03-22,pies,bernardyn,M
+1041,1041,596,Kosmita,2011-08-13,2021-02-11,pies,puli,M
+1042,1042,99,Pedros,2016-10-11,2020-10-07,pies,whippet,M
+1043,1043,615,Ajax,2016-01-23,2020-01-11,pies,mastif,M
+1044,1044,947,Stuart,2014-09-25,2020-08-16,pies,dog,M
+1045,1045,557,Budyń,2011-11-06,2020-02-04,kot,abisyński,M
+1046,1046,555,Mayki,2017-12-18,2020-08-19,ptak,nimfa,M
+1047,1047,277,Szczurko,2013-02-19,2021-05-19,pies,samoyed,M
+1048,1048,692,Milton,2016-06-20,2021-02-10,świnka morska,abisyńska,M
+1049,1049,698,Arczci,2011-11-02,2021-01-03,kot,gagamuffin,M
+1050,1050,989,Maniek,2019-07-15,2021-03-09,pies,charcik,M
+1051,1051,625,Miki,2015-11-10,2021-03-07,kot,bobtail,M
+1052,1052,490,Klemek,2016-09-04,2020-08-14,szynszyla,,M
+1053,1053,254,Gibson,2015-06-23,2021-03-29,świnka morska,peruwianka,M
+1054,1054,380,Spajki,2014-03-09,2021-01-25,pies,bloodhound,M
+1055,1055,891,Harrison,2012-05-18,2019-10-24,pies,beagle,M
+1056,1056,541,Largo,2011-07-19,2021-04-16,pies,beagle,M
+1057,1057,263,Barry,2018-08-08,2020-02-11,pies,seter,M
+1058,1058,609,Marco,2011-01-24,2020-07-23,pies,elkhund,M
+1059,1059,824,Czako,2016-09-29,2020-02-13,pies,wilczak,M
+1060,1060,878,Maurycy,2012-04-19,2020-09-24,pies,wilczak,M
+1061,1061,328,Reks,2013-09-04,2019-11-27,pies,foksterier,M
+1062,1062,114,Negro,2008-09-28,2020-10-25,kot,rosyjski,M
+1063,1063,275,Dyzio,2020-10-14,2020-10-22,pies,hokkaido,M
+1064,1064,487,Heksan,2020-03-18,2020-10-18,pies,pinczer,M
+1065,1065,280,Tantos,2020-02-07,2021-05-11,królik,lew miniaturka,M
+1066,1066,274,Ari,2020-06-12,2021-03-28,kot,tiffanie,M
+1067,1067,772,Gaston,2016-05-22,2019-11-16,kot,gagamuffin,M
+1068,1068,842,Witek,2013-04-02,2021-05-12,pies,spaniel,M
+1069,1069,718,Teo,2019-07-28,2020-07-08,świnka morska,abisyńska,M
+1070,1070,895,Rajmund,2017-06-21,2020-02-11,pies,pondeco,M
+1071,1071,327,Puszek,2012-08-10,2020-09-18,pies,chow chow,M
+1072,1072,210,Apach,2016-09-26,2021-03-31,koszatniczka,,M
+1073,1073,726,Puszek,2015-03-23,2020-01-18,królik,holenderski,M
+1074,1074,922,Figaro,2020-10-27,2021-03-19,kot,bengalski,M
+1075,1075,551,Aslan,2013-12-19,2019-10-05,kot,sfinks,M
+1076,1076,991,Monimir,2020-11-14,2021-01-24,pies,dalmatyńczyk,M
+1077,1077,25,Major,2021-01-14,2021-03-04,myszoskoczek,,M
+1078,1078,26,Poldek,2013-05-25,2021-03-14,pies,bearded collie,M
+1079,1079,701,Mikie,2017-01-20,2019-11-26,pies,maltańczyk,M
+1080,1080,82,Aron,2013-10-30,2021-03-07,kot,syberyjski,M
+1081,1081,895,Szerin,2009-03-28,2020-08-29,kot,tajski,M
+1082,1082,945,Johnny,2014-02-27,2021-04-14,pies,spaniel,M
+1083,1083,681,Lesio,2013-09-03,2020-08-24,pies,doberman,M
+1084,1084,412,Lolek,2019-06-15,2020-01-26,pies,dalmatyńczyk,M
+1085,1085,166,Manami,2015-03-09,2020-02-28,królik,holenderski,M
+1086,1086,699,Orio,2012-03-08,2020-03-18,kot,abisyński,M
+1087,1087,168,Gaston,2013-03-25,2020-10-17,pies,akita,M
+1088,1088,800,Stiuard,2010-08-13,2020-02-20,pies,bearded collie,M
+1089,1089,978,Kiwi,2016-01-01,2020-07-29,kot,sfinks,M
+1090,1090,228,Zoja,2015-09-20,2020-07-06,pies,buldog angielski,M
+1091,1091,978,Tygrys,2018-08-29,2020-03-30,świnka morska,peruwianka,M
+1092,1092,608,Kropek,2016-10-10,2020-09-22,świnka morska,abisyńska,M
+1093,1093,366,Cappuccino,2015-02-11,2020-03-06,szynszyla,,M
+1094,1094,527,Teodor,2020-08-26,2021-03-14,pies,nowofunland,M
+1095,1095,790,Seba,2018-08-07,2020-01-27,pies,hot,M
+1096,1096,646,Ksenon,2016-05-28,2021-04-10,pies,pekińczyk,M
+1097,1097,537,Garik,2013-07-03,2019-12-11,kot,syberyjski,M
+1098,1098,863,Benek,2012-10-30,2020-12-22,pies,nagi,M
+1099,1099,523,Robinek,2014-04-21,2020-12-22,pies,foksterier,M
+1100,1100,71,Benji,2018-10-31,2020-08-25,myszoskoczek,,M
+1101,1101,644,Russell,2012-06-03,2021-05-28,kot,perski,M
+1102,1102,105,Milou,2019-03-31,2020-09-27,pies,faraona,M
+1103,1103,731,Typek,2021-04-01,2021-04-17,świnka morska,peruwianka,M
+1104,1104,884,Bajzel,2019-11-30,2020-08-30,pies,ogar,M
+1105,1105,964,Izzy,2019-09-08,2021-02-24,pies,seter,M
+1106,1106,688,Lambo,2011-12-31,2020-03-31,pies,szpic,M
+1107,1107,281,Chaps,2014-03-13,2021-01-23,pies,owczarek,M
+1108,1108,132,Zula,2019-03-26,2020-11-21,szczur domowy,,M
+1109,1109,533,Melman,2018-01-31,2020-03-05,pies,spaniel,M
+1110,1110,974,Teo,2010-05-19,2020-01-16,kot,burmański,M
+1111,1111,268,Edek,2014-05-06,2019-12-18,pies,faraona,M
+1112,1112,411,Dino,2019-09-28,2020-02-09,pies,jamnik,M
+1113,1113,672,Alfa,2013-12-21,2021-04-24,pies,akita,M
+1114,1114,618,Spidy,2014-04-28,2020-09-13,pies,bloodhound,M
+1115,1115,790,Figo,2017-10-05,2021-03-18,pies,pudel,M
+1116,1116,864,Azazel,2013-10-18,2020-03-11,pies,ogar,M
+1117,1117,746,Tesla,2013-09-26,2021-03-25,pies,seter,M
+1118,1118,17,Rasty,2020-06-07,2020-11-22,pies,bullmastif,M
+1119,1119,753,Pumba,2011-07-09,2019-10-27,kot,hawański,M
+1120,1120,116,Balto,2013-09-13,2019-11-20,pies,golden retriever,M
+1121,1121,797,Hyziek,2015-09-10,2021-03-12,pies,alaskan,M
+1122,1122,793,Baksio,2008-01-14,2020-02-25,kot,rosyjski,M
+1123,1123,143,Mercedes,2012-04-21,2021-05-11,pies,faraona,M
+1124,1124,716,Buniek,2015-02-11,2021-05-15,pies,bullmastif,M
+1125,1125,550,Bercik,2012-06-30,2020-11-26,kot,hawański,M
+1126,1126,928,Hermann,2014-08-09,2019-12-28,pies,shih tzu,M
+1127,1127,665,Hunter,2014-06-04,2020-11-23,pies,seter,M
+1128,1128,687,Roni,2013-10-09,2021-01-28,kot,cornish,M
+1129,1129,960,Garik,2016-12-15,2021-01-02,pies,berneński,M
+1130,1130,752,Dante,2021-03-07,2021-05-04,pies,basenji,M
+1131,1131,421,Bordi,2014-04-19,2020-07-27,pies,dog,M
+1132,1132,897,Sofik,2021-05-11,2021-05-26,kot,rosyjski,M
+1133,1133,368,Kajetan,2017-08-06,2020-05-21,pies,chiuahua,M
+1134,1134,645,Borut,2016-06-19,2020-01-08,kot,cornish,M
+1135,1135,557,Hunter,2013-12-27,2020-10-16,pies,komondor,M
+1136,1136,49,Bobik,2019-11-20,2020-04-23,szczur domowy,,M
+1137,1137,677,Szarik,2015-08-04,2020-11-28,szynszyla,,M
+1138,1138,105,Melman,2018-09-27,2020-01-17,świnka morska,abisyńska,M
+1139,1139,215,Bajtek,2012-10-21,2020-08-29,pies,cavalier,M
+1140,1140,657,Badi,2010-11-03,2020-12-16,pies,terier,M
+1141,1141,922,Tuptuś,2013-07-23,2020-02-13,pies,golden retriever,M
+1142,1142,424,Tyson,2018-01-13,2020-10-20,kot,dachowiec,M
+1143,1143,71,Simon,2015-03-26,2020-02-19,pies,lablador,M
+1144,1144,987,Johnny,2015-05-02,2020-06-30,pies,shar pei,M
+1145,1145,841,Diament,2011-02-20,2021-04-06,kot,ragdoll,M
+1146,1146,784,Ramos,2018-12-15,2020-11-03,kot,tajski,M
+1147,1147,758,Orio,2019-11-30,2021-03-07,pies,chart,M
+1148,1148,445,Beniu,2011-12-10,2020-12-27,pies,mops,M
+1149,1149,924,Aston,2013-08-24,2020-08-30,pies,elkhund,M
+1150,1150,185,Kminek,2015-12-03,2020-06-13,pies,chart,M
+1151,1151,69,Piorun,2012-06-08,2020-07-15,pies,buldog francuski,M
+1152,1152,973,Malkolm,2019-07-11,2020-07-04,pies,elkhund,M
+1153,1153,149,Aron,2012-08-09,2019-10-24,pies,wyżeł,M
+1154,1154,245,Aslan,2012-03-07,2020-05-30,pies,boston tereier,M
+1155,1155,773,Hetman,2009-10-02,2020-06-30,pies,wilczak,M
+1156,1156,537,Stiuard,2008-05-06,2020-11-25,pies,chiuahua,M
+1157,1157,934,Stiwi,2008-11-19,2020-08-09,kot,rosyjski,M
+1158,1158,651,Tami,2019-06-07,2019-11-04,świnka morska,gładkowłosa,M
+1159,1159,98,Ciciuś,2011-01-29,2020-01-16,kot,tiffanie,M
+1160,1160,909,Major,2019-02-27,2020-04-07,kot,cornish,M
+1161,1161,277,Apach,2012-04-12,2020-02-09,kot,balijski,M
+1162,1162,562,Bongo,2018-04-20,2020-05-01,pies,hot,M
+1163,1163,662,Kokosz,2013-01-03,2020-11-21,pies,bloodhound,M
+1164,1164,943,Sallem,2013-12-12,2020-07-11,pies,lhasa apso,M
+1165,1165,454,Leliks,2010-09-23,2020-06-13,pies,maltańczyk,M
+1166,1166,103,Scotti,2014-07-16,2019-10-23,pies,łajka,M
+1167,1167,945,Frugo,2014-06-13,2020-02-17,kot,ragdoll,M
+1168,1168,600,Fluffi,2018-08-17,2020-05-14,pies,bernardyn,M
+1169,1169,652,Rocky,2013-02-21,2019-10-07,pies,pudel,M
+1170,1170,724,Nes,2009-12-30,2020-05-27,kot,tajski,M
+1171,1171,232,Leonek,2012-04-07,2021-01-11,pies,faraona,M
+1172,1172,393,Lilo,2012-05-04,2020-05-19,kot,tiffanie,M
+1173,1173,500,Puszek,2012-09-08,2021-02-14,pies,terier,M
+1174,1174,694,Black,2017-03-04,2021-03-08,szynszyla,,M
+1175,1175,250,Nero,2016-07-31,2020-02-20,ptak,słowik chiński,M
+1176,1176,520,Kasel,2018-02-15,2020-07-06,pies,shih tzu,M
+1177,1177,78,Pimpu,2021-02-23,2021-03-29,pies,seter,M
+1178,1178,51,Deany,2018-10-17,2019-11-26,pies,shih tzu,M
+1179,1179,897,Beilis,2011-09-26,2020-01-22,kot,doński,M
+1180,1180,920,Aron,2016-04-20,2019-10-08,pies,hollandse,M
+1181,1181,780,Apsik,2020-04-06,2020-09-07,pies,puli,M
+1182,1182,225,Ange,2014-01-25,2019-11-20,pies,doberman,M
+1183,1183,50,Lisek,2012-12-18,2020-01-06,pies,dalmatyńczyk,M
+1184,1184,185,Kimbo,2019-05-26,2021-04-16,pies,beagle,M
+1185,1185,33,Carlos,2015-04-22,2020-05-04,pies,sznaucer,M
+1186,1186,802,Timi,2013-07-16,2020-12-13,pies,sznaucer,M
+1187,1187,741,Jordan,2016-09-25,2021-02-23,świnka morska,gładkowłosa,M
+1188,1188,130,Deany,2015-07-16,2020-04-26,pies,drever,M
+1189,1189,631,Leti,2010-04-05,2020-10-19,kot,bombajski,M
+1190,1190,442,Bradlej,2014-04-15,2019-12-16,pies,samoyed,M
+1191,1191,837,Tesla,2013-12-22,2021-03-03,kot,amerykański,M
+1192,1192,758,Moris,2013-05-27,2019-12-19,pies,bokser,M
+1193,1193,431,Olaf,2017-01-22,2019-12-20,pies,basenji,M
+1194,1194,703,Makao,2010-04-15,2020-11-17,kot,brytyjski,M
+1195,1195,496,Bajer,2011-08-08,2020-01-18,pies,hawańczyk,M
+1196,1196,402,Largo,2021-02-22,2021-05-09,pies,lhasa apso,M
+1197,1197,322,Chrupek,2018-02-13,2021-04-07,szynszyla,,M
+1198,1198,209,Mafii,2007-03-12,2021-01-22,kot,maine coon,M
+1199,1199,614,Nicko,2010-02-05,2020-07-05,kot,turecki van,M

@@ -1,0 +1,24 @@
+czas;rodaj wizyty;koszt;czy chirurg
+00:15;kontrolna;40;0
+00:15;zabieg higieniczny drobny;50;0
+00:15;szczepienie;30;0
+00:15;chipowanie;60;0
+00:15;konsultacja chirurgiczna;40;1
+00:15;badanie krwi;60;0
+00:15;wydanie paszportu;100;0
+00:30;kroplówka witaminowa;50;0
+00:30;zabieg higieniczy du¿y;80;0
+00:30;zabieg chirurgiczny drobny;100;1
+00:30;RTG;80;0
+00:30;EKG;80;0
+00:30;USG;100;0
+01:00;testy alergiczne;150;0
+01:00;kastracja/sterylizacja;150;0
+01:00;zabieg ortopedyczny;200;0
+01:00;zabieg okulistyczny ;200;1
+01:00;zabieg chirurgii wewnêtrznej;300;1
+01:00;zabieg chrurgii zewnêtrznej;300;1
+02:00;operacja w znieczuleniu czêœciowym;400;1
+02:00;operacja pod narkoz¹;450;1
+02:00;eutanazja;200;0
+02:00;Kompleksowy zestaw badañ ;250;0

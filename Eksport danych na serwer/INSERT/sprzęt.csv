@@ -1,0 +1,75 @@
+id_sprzętu,Nazwa,Kategoria,Wartość
+1,aparat usg,diagnostyka,  43 000 
+2,aparat rtg,diagnostyka,  46 317 
+3,endoskop,diagnostyka,  11 084 
+4,tomograf komputerowy,diagnostyka,  250 000 
+5,inkubator termiczny,diagnostyka,  3 240 
+6,elektrokardiograf,diagnostyka,  9 828 
+7,analizator hematologiczny ,diagnostyka,  3 582 
+8,analizator biochemiczny,diagnostyka,  29 962 
+9,analizator moczu,diagnostyka,  2 160 
+10,otoskop heine,diagnostyka,  485 
+11,otoskop heine,diagnostyka,  485 
+12,otoskop heine,diagnostyka,  485 
+13,otoskop heine,diagnostyka,  485 
+14,projektor zimnego światła,diagnostyka,  3 345 
+15,wziernik,diagnostyka,  729 
+16,wziernik,diagnostyka,  729 
+17,wziernik,diagnostyka,  729 
+18,lupa na czepcu,diagnostyka,  4 172 
+19,lupa na czepcu,diagnostyka,  4 172 
+20,lupa na czepcu,diagnostyka,  4 172 
+21,lupa na czepcu,diagnostyka,  4 172 
+22,lampa czołowa,diagnostyka,  12 612 
+23,lampa czołowa,diagnostyka,  12 612 
+24,stetoskop ,diagnostyka,  180 
+25,stetoskop ,diagnostyka,  180 
+26,stetoskop ,diagnostyka,  180 
+27,stetoskop ,diagnostyka,  180 
+28,stetoskop ,diagnostyka,  180 
+29,stetoskop ,diagnostyka,  180 
+30,wirówka,diagnostyka,  1 521 
+31,aparat do anestezji wziewnej,znieczulenie i monitoring,  15 259 
+32,respirator,znieczulenie i monitoring,  12 196 
+33,koncentrator tlenu,znieczulenie i monitoring,  3 225 
+34,ciśnieniomierz,znieczulenie i monitoring,  1 597 
+35,ciśnieniomierz,znieczulenie i monitoring,  1 597 
+36,kardiomonitor,znieczulenie i monitoring,  4 550 
+37,manometr,znieczulenie i monitoring,  282 
+38,manometr,znieczulenie i monitoring,  282 
+39,manometr,znieczulenie i monitoring,  282 
+40,monitor oddechu,znieczulenie i monitoring,  183 
+41,monitor oddechu,znieczulenie i monitoring,  183 
+42,monitor funkcji życiowych ,znieczulenie i monitoring,  4 410 
+43,monitor funkcji życiowych ,znieczulenie i monitoring,  4 410 
+44,elektrokoagulator,chirurgia,  3 750 
+45,kleszcze biopsyjne,chirurgia,  1 858 
+46,urządzenie do kardiochirurgii,chirurgia,  20 978 
+47,sterylizator,chirurgia,  33 632 
+48,lampa zabiegowa,chirurgia,  5 534 
+49,lampa zabiegowa,chirurgia,  5 534 
+50,oftalmoskop,okulistyka,  1 656 
+51,tonometr,okulistyka,  10 450 
+52,wielofunkcyjny wanno-stół,wyposażenie podstawowe,  9 377 
+53,waga,wyposażenie podstawowe,  2 083 
+54,stół diagnostyczny,wyposażenie podstawowe,  7 010 
+55,stół diagnostyczny,wyposażenie podstawowe,  7 010 
+56,klatka weterynaryjna duża,wyposażenie podstawowe,  730 
+57,klatka weterynaryjna duża,wyposażenie podstawowe,  730 
+58,klatka weterynaryjna duża,wyposażenie podstawowe,  730 
+59,klatka weterynaryjna duża,wyposażenie podstawowe,  730 
+60,klatka weterynaryjna duża,wyposażenie podstawowe,  730 
+61,klatka weterynaryjna duża,wyposażenie podstawowe,  730 
+62,klatka weterynaryjna średnia,wyposażenie podstawowe,  650 
+63,klatka weterynaryjna średnia,wyposażenie podstawowe,  650 
+64,klatka weterynaryjna średnia,wyposażenie podstawowe,  650 
+65,klatka weterynaryjna średnia,wyposażenie podstawowe,  650 
+66,klatka weterynaryjna mała,wyposażenie podstawowe,  400 
+67,klatka weterynaryjna mała,wyposażenie podstawowe,  400 
+68,klatka weterynaryjna mała,wyposażenie podstawowe,  400 
+69,klatka weterynaryjna mała,wyposażenie podstawowe,  400 
+70,komputer,wyposażenie biurowe,  2 500 
+71,komputer,wyposażenie biurowe,  2 500 
+72,komputer,wyposażenie biurowe,  2 500 
+73,drukarka,wyposażenie biurowe,  350 
+74,telefon stacjonarny,wyposażenie biurowe,  150 

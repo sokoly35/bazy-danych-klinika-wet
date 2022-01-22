@@ -1,0 +1,1 @@
+jupyter-nbconvert --execute --to PDFviaHTML --TemplateExporter.exclude_input=True --no-prompt analiza_danych.ipynb --output raport.pdf /k
