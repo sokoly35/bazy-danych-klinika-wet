@@ -6,73 +6,116 @@
                                                                                                                                   
 
 ## Spis Treści 
-* [Przegląd](#przegląd)
-* [Instalacja i przygotowanie](#instalacja-i-przygotowanie)
-  * [Pobieranie plików](#pobieranie-plików)
-  * [Generowanie tabel](#generowanie-tabel)
-  * [Zalogowanie do bazy](#zalogowanie-do-bazy)
-  * [Stworzenie tabel](#stworzenie-tabel)
-  * [Wypełnienie tabel](#wypełnienie-tabel)
-  * [Analiza Danych](#analiza-danych)
-  * [Generowanie raportu](#generowanie-raportu)
-* [Technologie](#technologie)
-* [Drużyna](#drużyna)
+* [Opis](#przegląd)
+* [Tabela Zwierzęta](#zwierzeta)
+* [Tabela Wizyty](#wizyty)
+* [Tabela Właściciele](#wlasciciele)
+* [Tabela Pracownicy](#pracownicy)
+* [Tabela Sprzęt](#sprzet)
+* [Tabela Transakcje](#transakcje)
 
 
 
-## Przegląd  <a name="przegląd"></a>
+## Opis  <a name="przegląd"></a>
 
-Klinika weterynaryjna APORT jest projektem na zaliczenie z kursu Bazy Danych z 2020 roku. Zadanie polegało na wysymulowaniu danych, jakie mogłyby się pojawić w bazie przykładowej kliniki weterynaryjnej. Do tego zadania wykorzystaliśmy język python. <br>
-Następnie uzyskane dane należało eksportować i postawić na serwerze za pomocą MySQL. Na koniec drużyna miała za zadanie przeprowadzić analizę danych z wysymulowanego zbioru i sporządzić raport. Do wizualizacji wykorzystano biblioteki seaborn <br>
-i matplotlib.
+Plik opisuje w jaki sposób powstawały zasymulowane dane wykorzystywane do stworzenia bazy na serwerze.
 
-## Instalacja i przygotowanie  <a name="instalacja-i-przygotowanie"></a>
+## Tabela Zwierzęta <a name="zwierzeta"></a>
 
-### Pobieranie plików  <a name="pobieranie-plików"></a>
-Należy sklonować repozytorium lokalnie za pomocą polecenia w konsoli 
-```
-git clone https://github.com/sokoly35/bazy-danych-klinika-wet.git
-```
-### Generowanie tabel  <a name="generowanie-tabel"></a>
-Przechodząc do folderu "Generowanie zbioru danych" możemy znaleźć notatniki jupytera odpowiedzialne za wygenerowanie konkretnych tabel do bazy danych. Wygenerowane pliki znajdują się również w "Eksport danych na serwer\INSERT" w plikach csv. Notatniki zawierają jednak ciekawą metodykę, z jaką trzeba było się zmierzyć generując obserwacje, założenia jakie zostały dokonane oraz sposób rozwiązania postawionego problemu. Specyfika niektórych danych wymagała utworzenia tabel ręcznie... 
+Kolumny:
+- id_zwierzęcia
+- id_właściciela
+- Imię
+- Data urodzenia
+- Data rejestracji
+- Gatunek
+- Rasa
+- Płeć
 
-### Zalogowanie do bazy  <a name="zalogowanie-do-bazy"></a>
-W ramach projektu, w celu zalogowania się do bazy danych korzystaliśmy z rozszerzenia AppexSQL w edytorze VS Code, lecz użytkownik może skorzystać z innych narzędzi. Osoba chcąca postawić bazę danych wykorzystując nasze skrypty powinna posiadać następujące dane:
-- nazwa serwera
-- login 
-- hasło
-- nazwa bazy
+Imiona zostały pobrane z internetowego spisu imion dla zwierząt, są różne dla płci. Gatunki oraz rasy również zostały spisane <br> z internetowych stron dla najpopularniejszych zwierząt domowych. Założono, że każda rasa i gatunek zwierzęcia ma swoją maksymalną żywotność (zostało to sprawdzone na stronach internetowych). Założono, że najczęściej rejestrowane są zwierzęta młode oraz stare.
 
-### Stworzenie tabel  <a name="stworzenie-tabel"></a>
-Po zalogowaniu się na serwerze, w celu utworzenia pustych tabel należy wykonać zapytania z pliku create_tables.sql.
+![image](https://user-images.githubusercontent.com/58236634/150676477-55508887-d20d-41e4-858e-3b6c325beb31.png)
 
-### Wypełnienie tabel  <a name="wypełnienie-tabel"></a>
-W notatniku "\Eksport danych na serwer\master.ipynb" znajduje się skrypt wypełniający stworzone tabele bazując na utworzonych wcześniej plikach csv w folderze INSERT. W notatniku w linijce
-```
-SQL_CONNECTOR = os.getenv('SQL_CONNECTOR')
-```
-użytkownik powinien wpisać formułę łączącą SQLAlchemy z bazą trzymając się konwencji:
-```
-silnik://<login>:<hasło>@<nazwa serwera>:<port>/<nazwa tabeli>?charset=utf8
-```
+Wiek zwierzęcia pochodzi z wygenerowania dwóch rozkładów normalnych widocznych na rysunku u góry - jeden z nich ma parametr mu_1 = ⅕ maksymalnej żywotności b ustalony subiektywnie, a drugi mu = ⅗ maksymalnej żywotności również ustawiony subiektywnie. Z prawdopodobieństwem p=0.3 wiek będzie pochodził z pierwszego rozkładu, a z prawdopodobieństwem q=0.7 z drugiego. Wykorzystując regułę 3-sigm ustalono, że 3-sigma nie powinno być większe niż odległość od zera do ⅕ maksymalnej żywotności dla pierwszego rozkładu. Jednocześnie 3-sigma nie powinno być większe niż odległość ⅗ maksymalnej żywotności do maksymalnej żywotności przy drugim rozkładzie. Pozwoliło to uzyskać odchylenie standardowe dla pierwszego rozkładu równe ⅓ mu_1 i ⅓(b-mu_2) dla drugiego. Ponieważ zmienna z rozkładu normalnego jest rzeczywista, wzięliśmy wartość bezwzględną i żeby uniknąć wieku równego  0, dodaliśmy 1/10 roku. Ten zabieg pozwala na podstawie odjęcia wieku od dzisiejszej daty (18.06.2021) otrzymania daty urodzenia. <br>
+Data rejestracji do kliniki była losowana z rozkładu jednostajnego na horyzoncie zaczynającym się od daty urodzenia lub daty założenia przychodni w zależności od tego co miały większy sens do 05.06.2021. <br>
+Id właściciela było losowo przypisywane do zwierzęcia z uwzględnieniem, aby właściciel był w posiadaniu co najmniej jednego zwierzęcia.
 
-### Analiza danych  <a name="analiza-danych"></a>
-Celem projektu było sporządzenie stosownego raportu, który mógły w pewien sposób przydać się pracownikom ośrodka. Szablon takiej analizy danych znajduje się w notatniku "\Analiza danych\analiza_danych.ipynb" zawierające przydatne informacje dotyczące działań przychodni.
+## Wizyty <a name="wizyty"></a>
 
-### Generowanie raportu  <a name="generowanie-raportu"></a>
-W przypadku, gdyby baza była na bieżąco aktualizowana, a pracownicy o dziwo nie umieliby korzystać z pythona i jupytera :open_mouth: plik "\Analiza danych\generuj_raport.sh" zwróci raport w formacie pdf z wynikami analiz bazując na aktualnych danych w bazie. 
+Kolumny:
+- id_wizyty
+- Data
+- Godzina
+- id_pracownika
+- Czas trwania wizyty
+- Rodzaj wizyty
+- id_zwierzęcia
 
-## Technologie  <a name="technologie"></a>
-![Python](https://img.shields.io/badge/python-v3.8.8-blue.svg)
+Założono, że klinika działa od 05.10.2019. Godziny otwarcia kliniki to: 
+-	poniedziałek - środa od 8 do 16, 
+-	czwartek - piątek od 8 do 18, 
+-	w weekendy od 9 do 13. 
+Lekarze i pielęgniarki pracują 5 dni w tygodniu, a chirurg z racji trudnej pracy pracuje tylko 4 dni w tygodniu, od poniedziałku do czwartku. Lekarz 1 pracuje od poniedziałku do czwartku i w sobotę, a lekarz 2 od wtorku do piątku <br>  i niedzielę. Założono, że są 4 rodzaje wizyt:
+-	15 min z p-stwem 0.4,
+-	30 min z p-stwem 0.3,
+-	1 h z p-stwem 0.2,
+-	2 h z p-stwem 0.1,
+Od 05.10.2019 do 09.05.2020 klinka się rozkręcała i prawdopodobieństwo, że klient przyjdzie na wizytę (czyli wcześniej ją zarezerwował) wynosi 0.3. W pozostałych dniach to p-stwo wzrosło do 0.6. W ciągu tygodnia są 3 dni gdy jest 3 lekarzy, 2 dni jak jest 2 lekarzy i 2 dni jak jest jeden lekarz. Rozkłady wizyt do lekarzy są takie same. Przerwy pracowników są pomijalne <br> i odbywają się ewentualnie jak nie ma żadnego pacjenta. Zdarzają się sytuacje, w których przez nagłe wypadki pracownicy zostają na nadgodzinach. <br>
+W zależności od długości trwania wizyty i rodzaju specjalizacji lekarza badającego lub operującego dobrane zostały rodzaje wizyty. <br>
+Id_zwierzęcia było dobierane losowo do wizyt w zależności od daty rejestracji w klinice. To znaczy zwierzę, które zostało zarejestrowane później niż dzień wizyty, nie było uwzględniane. Może zdarzać się tak, że zwierzęta zostały zarejestrowane, ale jeszcze nie były na żadnej wizycie. <br>
+W tabeli przy każdej wizycie dołączony jest rodzaj wizyty. Uwzględniono, aby w momencie gdy na zwierzęciu została przeprowadzona eutanazja nie pojawiały się nowe wizyty.
 
-[<img target="_blanket" src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" width=300 height=100>](https://librosa.org/)
-[<img target="_blanket" src="https://pandas.pydata.org/docs/_static/pandas.svg" width=300, height=100>](https://pandas.pydata.org/)
-[<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=300 height=100>](https://seaborn.pydata.org/) 
-[<img target="_blank" src="https://user-images.githubusercontent.com/58236634/150637347-e2bf2129-5557-4169-8259-ee567372de21.png" width=300 height=100>](https://www.sqlalchemy.org/) 
 
 
-## Drużyna  <a name="drużyna"></a>
-| [<img target="_blanket" src="https://avatars.githubusercontent.com/u/58236634?v=4" width=200 height=200>](https://github.com/sokoly35) | [<img target="_blanket" src="https://user-images.githubusercontent.com/58236634/150647836-4d589a5f-ea53-437f-8620-6713bdedf5a3.png" width=200 height=200>](https://github.com/marszelka) | <img target="_blanket" src="https://user-images.githubusercontent.com/58236634/150647806-e102bd3d-cb29-4713-9ac7-2f554e6ce692.png" width=200 height=200> | <img target="_blanket" src="https://user-images.githubusercontent.com/58236634/150647353-102ac350-195e-4ffd-93ec-40ba943ce3af.png" width=200 height=200> |
-| :---        | :---        | :---        | :---        | 
-| [Rafał Sokołowski](https://github.com/sokoly35) | [Marta Jaworska](https://github.com/marszelka)  | Marta Kroczak | Agata Kawerska| 
+
+## Tabela Właściciele <a name="wlasciciele"></a>
+
+Kolumny:
+- id_właściciela
+- Imię 
+- Nazwisko
+- PESEL
+- Telefon
+- Email
+
+Dane, którymi zostały uzupełnione kolumny Imię, Nazwisko zostały pobrane ze strony Głównego Urzędu Statystycznego. Użyto czterech różnych tabel zawierających odpowiednio najczęściej występujące w Polsce imiona męskie i żeńskie oraz najczęściej występujące w Polsce nazwiska męskie i żeńskie. Założono, że klinika ma 1000 klientów. Wylosowano liczbę mężczyzn i kobiet wśród klientów. Następnie przypisano do imion męskich odpowiednie prawdopodobieństwa odpowiadające liczbie wystąpień danego imienia i losowano ze zwracaniem imiona w zależności od prawdopodobieństwa występowania. To samo zostało powtórzone dla męskich nazwisk oraz żeńskich imion i nazwisk. Do generowania numerów PESEL został użyty generator numerów PESEL online dla zadanych płci i dat urodzenia od 01.01.1950 do 12.06.2003. Numery PESEL są unikalne. Numery Telefonów to losowe liczby o długości 9 cyfr. Numery telefonów są unikalne. Emaile zostały utworzone według schematu: imię + kropka + nazwisko + losowa liczba od 0 do 1000 + małpa + losowa domena wybrana z listy: gmail.com, wp.pl, onet.pl, o2.pl, interia.pl, yahoo.com, hotmail.com.
+
+
+
+## Tabela Pracownicy <a name="pracownicy"></a>
+
+Kolumny:
+- id_pracownika
+- Imię
+- Nazwisko
+- PESEL
+- Telefon
+- Email
+- Data zatrudnienia
+- Specjalizacja
+- Pensja
+
+W tabeli znajdują się dane na temat pracowników naszej kliniki. Założono, że pracuje w niej pięć osób, w tym dwóch lekarzy, dwie pielęgniarki i jeden chirurg. Dane do kolumn Imię, Nazwisko, Email, Specjalizacja zostały wpisane ręcznie. Do generowania numerów PESEL został użyty generator numerów PESEL online dla zadanych dat urodzenia i płci. Numery Telefonów to losowe liczby o długości 9 cyfr. Za datę zatrudnienia wszystkich pracowników przyjęto datę otwarcia kliniki.
+
+## Tabela Sprzęt <a name="sprzet"></a>
+
+Kolumny:
+- id_sprzętu
+- Nazwa
+- Kategoria
+- Wartość
+
+Spis sprzętu, czyli kolumny Nazwa, Kategoria został sporządzony na podstawie list sprzętu dostępnych w internecie. Dane w kolumnie Wartość to ceny pobrane ze sklepów online oferujących sprzęt weterynaryjny
+
+
+## Tabela Transakcje <a name="transakcje"></a>
+
+Kolumny:
+- id_transakcji
+- Data
+- Rodzaj_transakcji
+- Kwota
+- id_wizyta jeśli wizyta
+
+Tabela zawiera koszty i przychody ponoszone od czasu powstania kliniki. Założono kilka rodzajów stałych kosztów ponoszonych pierwszego dnia każdego miesiąca, które nie zmieniły się od czasu powstania kliniki, są to: czynsz za wynajem lokalu (sprawdzona <br> w internecie średnia to 30 zł/mkw,  dla kliniki o powierzchni 150mkw to 4500zł); dodatkowe opłaty za media, prąd, wywóz śmieci, wodę <br> i inne ustalona na poziomie 1/5 czynszu; opłata dla zewnętrznej firmy sprzątającej na poziomie minimalnej krajowej pensji; opłata dla biura rachunkowego 500 zł i bankowa 140 zł przyjęta na podstawie informacji znalezionych w internecie. Przychody to wpłaty od klientów za dokonane usługi weterynaryjne, które zostały pobrane z tabeli wizyty. 
 
