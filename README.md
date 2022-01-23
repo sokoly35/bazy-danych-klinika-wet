@@ -29,9 +29,8 @@
 
 ## Przegląd  <a name="przegląd"></a>
 
-Klinika weterynaryjna APORT jest projektem na zaliczenie z kursu Bazy Danych z 2020 roku. Zadanie polegało na wysymulowaniu danych, jakie mogłyby się pojawić w bazie przykładowej kliniki weterynaryjnej. Do tego zadania wykorzystaliśmy język python. <br>
-Następnie uzyskane dane należało eksportować i postawić na serwerze za pomocą MySQL. Na koniec drużyna miała za zadanie przeprowadzić analizę danych z wysymulowanego zbioru i sporządzić raport. Do wizualizacji wykorzystano biblioteki seaborn <br>
-i matplotlib.
+Klinika weterynaryjna APORT jest projektem na zaliczenie z kursu Bazy Danych z 2020 roku. Zadanie polegało na wysymulowaniu danych, jakie mogłyby się pojawić w bazie przykładowej kliniki weterynaryjnej. Do tego zadania wykorzystaliśmy język python. Szczegóły w jaki sposób powstawały konkretne tabele można znaleźć w pliku Dokumentacja.md. <br>
+Uzyskane dane należało eksportować i postawić na serwerze za pomocą MySQL. Na koniec drużyna miała za zadanie przeprowadzić analizę danych z wysymulowanego zbioru i sporządzić raport. Do wizualizacji wykorzystano biblioteki seaborn i matplotlib.
 
 ## Instalacja i przygotowanie  <a name="instalacja-i-przygotowanie"></a>
 
